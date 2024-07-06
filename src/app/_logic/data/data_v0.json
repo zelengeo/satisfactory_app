@@ -1,0 +1,6839 @@
+{
+  "buildingMap": {
+    "Constructor": {
+      "name": "Constructor",
+      "recipes": [
+        "Actual Snow",
+        "Aluminium Casing",
+        "Biocoal",
+        "Biomass (Alien Protein)",
+        "Biomass (Leaves)",
+        "Biomass (Mycelia)",
+        "Biomass (Wood)",
+        "Cable",
+        "Candy Cane",
+        "Cast Screw",
+        "Caterium Wire",
+        "Charcoal",
+        "Colour Cartridge",
+        "Concrete",
+        "Copper Powder",
+        "Copper Sheet",
+        "Empty Canister",
+        "Empty Fluid Tank",
+        "FICSMAS Bow",
+        "FICSMAS Tree Branch",
+        "Hatcher Protein",
+        "Hog Protein",
+        "Iron Plate",
+        "Iron Rod",
+        "Iron Wire",
+        "Alien DNA Capsules",
+        "Power Shard (1)",
+        "Power Shard (2)",
+        "Power Shard (5)",
+        "Quartz Crystal",
+        "Quickwire",
+        "Screw",
+        "Silica",
+        "Snowball",
+        "Solid Biofuel",
+        "Iron Rebar",
+        "Spitter Protein",
+        "Steel Beam",
+        "Steel Canister",
+        "Steel Pipe",
+        "Steel Rod",
+        "Steel Screw",
+        "Stinger Protein",
+        "Wire"
+      ]
+    },
+    "Assembler": {
+      "name": "Assembler",
+      "recipes": [
+        "Adhered Iron Plate",
+        "AI Limiter",
+        "Alclad Aluminium Sheet",
+        "Alclad Casing",
+        "Assembly Director System",
+        "Automated Wiring",
+        "Black Powder",
+        "Bolted Frame",
+        "Bolted Iron Plate",
+        "Caterium Circuit Board",
+        "Cheap Silica",
+        "Circuit Board",
+        "Cluster Nobelisk",
+        "Coated Iron Canister",
+        "Coated Iron Plate",
+        "Compacted Coal",
+        "Copper Rotor",
+        "Crystal Computer",
+        "Electric Motor",
+        "Electrode Circuit Board",
+        "Electromagnetic Connection Rod",
+        "Electromagnetic Control Rod",
+        "Encased Industrial Beam",
+        "Encased Industrial Pipe",
+        "Encased Plutonium Cell",
+        "Fabric",
+        "Fancy Fireworks",
+        "FICSMAS Decoration",
+        "FICSMAS Ornament Bundle",
+        "FICSMAS Wonder Star",
+        "Fine Black Powder",
+        "Fine Concrete",
+        "Fused Quickwire",
+        "Fused Wire",
+        "Gas Nobelisk",
+        "Heat Exchanger",
+        "Heat Sink",
+        "Homing Rifle Ammo",
+        "Insulated Cable",
+        "Modular Frame",
+        "Motor",
+        "Nobelisk",
+        "OC Supercomputer",
+        "Plutonium Fuel Unit",
+        "Pressure Conversion Cube",
+        "Pulse Nobelisk",
+        "Quickwire Cable",
+        "Quickwire Stator",
+        "Reinforced Iron Plate",
+        "Rifle Ammo",
+        "Rotor",
+        "Rubber Concrete",
+        "Shatter Rebar",
+        "Silicon Circuit Board",
+        "Smart Plating",
+        "Sparkly Fireworks",
+        "Stator",
+        "Steel Coated Plate",
+        "Steel Rotor",
+        "Steeled Frame",
+        "Stitched Iron Plate",
+        "Stun Rebar",
+        "Sweet Fireworks",
+        "Versatile Framework"
+      ]
+    },
+    "Manufacturer": {
+      "name": "Manufacturer",
+      "recipes": [
+        "Adaptive Control Unit",
+        "Automated Miner",
+        "Automated Speed Wiring",
+        "Beacon",
+        "Caterium Computer",
+        "Classic Battery",
+        "Computer",
+        "Crystal Beacon",
+        "Crystal Oscillator",
+        "Explosive Rebar",
+        "Flexible Framework",
+        "Gas Filter",
+        "Heavy Encased Frame",
+        "Heavy Flexible Frame",
+        "Heavy Modular Frame",
+        "High-Speed Connector",
+        "Infused Uranium Cell",
+        "Insulated Crystal Oscillator",
+        "Iodine Infused Filter",
+        "Magnetic Field Generator",
+        "Modular Engine",
+        "Nuke Nobelisk",
+        "Plastic Smart Plating",
+        "Plutonium Fuel Rod",
+        "Radio Connection Unit",
+        "Radio Control System",
+        "Radio Control Unit",
+        "Rigour Motor",
+        "Seismic Nobelisk",
+        "Silicon High-Speed Connector",
+        "Super-State Computer",
+        "Supercomputer",
+        "Thermal Propulsion Rocket",
+        "Turbo Electric Motor",
+        "Turbo Motor",
+        "Turbo Pressure Motor",
+        "Turbo Rifle Ammo",
+        "Uranium Fuel Rod",
+        "Uranium Fuel Unit"
+      ]
+    },
+    "Packager": {
+      "name": "Packager",
+      "recipes": [
+        "Packaged Alumina Solution",
+        "Packaged Fuel",
+        "Packaged Heavy Oil Residue",
+        "Packaged Liquid Biofuel",
+        "Packaged Nitric Acid",
+        "Packaged Nitrogen Gas",
+        "Packaged Oil",
+        "Packaged Sulfuric Acid",
+        "Packaged Turbofuel",
+        "Packaged Water",
+        "Unpackage Alumina Solution",
+        "Unpackage Fuel",
+        "Unpackage Heavy Oil Residue",
+        "Unpackage Liquid Biofuel",
+        "Unpackage Nitric Acid",
+        "Unpackage Nitrogen Gas",
+        "Unpackage Oil",
+        "Unpackage Sulfuric Acid",
+        "Unpackage Turbofuel",
+        "Unpackage Water"
+      ]
+    },
+    "Refinery": {
+      "name": "Refinery",
+      "recipes": [
+        "Alumina Solution",
+        "Aluminium Scrap",
+        "Coated Cable",
+        "Diluted Packaged Fuel",
+        "Electrode - Aluminium Scrap",
+        "Fuel",
+        "Heavy Oil Residue",
+        "Liquid Biofuel",
+        "Petroleum Coke",
+        "Plastic",
+        "Polyester Fabric",
+        "Polymer Resin",
+        "Pure Caterium Ingot",
+        "Pure Copper Ingot",
+        "Pure Iron Ingot",
+        "Pure Quartz Crystal",
+        "Recycled Plastic",
+        "Recycled Rubber",
+        "Residual Fuel",
+        "Residual Plastic",
+        "Residual Rubber",
+        "Rubber",
+        "Sloppy Alumina",
+        "Smokeless Powder",
+        "Steamed Copper Sheet",
+        "Sulfuric Acid",
+        "Turbo Heavy Fuel",
+        "Turbofuel",
+        "Wet Concrete"
+      ]
+    },
+    "Blender": {
+      "name": "Blender",
+      "recipes": [
+        "Battery",
+        "Cooling Device",
+        "Cooling System",
+        "Diluted Fuel",
+        "Encased Uranium Cell",
+        "Fertile Uranium",
+        "Fused Modular Frame",
+        "Heat-Fused Frame",
+        "Instant Scrap",
+        "Nitric Acid",
+        "Non-fissile Uranium",
+        "Turbo Blend Fuel",
+        "Turbo Rifle Ammo"
+      ]
+    },
+    "Particle Accelerator": {
+      "name": "Particle Accelerator",
+      "recipes": [
+        "Instant Plutonium Cell",
+        "Nuclear Pasta",
+        "Plutonium Pellet"
+      ]
+    },
+    "Smelter": {
+      "name": "Smelter",
+      "recipes": [
+        "Blue FICSMAS Ornament",
+        "Caterium Ingot",
+        "Copper Ingot",
+        "Iron Ingot",
+        "Pure Aluminium Ingot",
+        "Red FICSMAS Ornament"
+      ]
+    },
+    "Foundry": {
+      "name": "Foundry",
+      "recipes": [
+        "Aluminium Ingot",
+        "Coke Steel Ingot",
+        "Compacted Steel Ingot",
+        "Copper Alloy Ingot",
+        "Copper FICSMAS Ornament",
+        "Iron Alloy Ingot",
+        "Iron FICSMAS Ornament",
+        "Solid Steel Ingot",
+        "Steel Ingot"
+      ]
+    }
+  },
+  "resourceMap": {
+    "FICSMAS Gift": {
+      "name": "FICSMAS Gift",
+      "usedIn": [
+        "Actual Snow",
+        "Candy Cane",
+        "FICSMAS Bow",
+        "FICSMAS Tree Branch",
+        "Blue FICSMAS Ornament",
+        "Red FICSMAS Ornament"
+      ],
+      "producedIn": []
+    },
+    "Actual Snow": {
+      "name": "Actual Snow",
+      "usedIn": [
+        "Snowball",
+        "Sparkly Fireworks"
+      ],
+      "producedIn": [
+        "Actual Snow"
+      ]
+    },
+    "Aluminium Ingot": {
+      "name": "Aluminium Ingot",
+      "usedIn": [
+        "Aluminium Casing",
+        "Empty Fluid Tank",
+        "Alclad Aluminium Sheet",
+        "Alclad Casing",
+        "Heat-Fused Frame"
+      ],
+      "producedIn": [
+        "Pure Aluminium Ingot",
+        "Aluminium Ingot"
+      ]
+    },
+    "Aluminium Casing": {
+      "name": "Aluminium Casing",
+      "usedIn": [
+        "Heat Exchanger",
+        "Iodine Infused Filter",
+        "Radio Control System",
+        "Radio Control Unit",
+        "Turbo Rifle Ammo",
+        "Battery",
+        "Fused Modular Frame",
+        "Turbo Rifle Ammo",
+        "Instant Plutonium Cell"
+      ],
+      "producedIn": [
+        "Aluminium Casing",
+        "Alclad Casing"
+      ]
+    },
+    "Biomass": {
+      "name": "Biomass",
+      "usedIn": [
+        "Biocoal",
+        "Solid Biofuel",
+        "Fabric",
+        "Gas Nobelisk"
+      ],
+      "producedIn": [
+        "Biomass (Alien Protein)",
+        "Biomass (Leaves)",
+        "Biomass (Mycelia)",
+        "Biomass (Wood)"
+      ]
+    },
+    "Coal": {
+      "name": "Coal",
+      "usedIn": [
+        "Black Powder",
+        "Compacted Coal",
+        "Gas Filter",
+        "Aluminium Scrap",
+        "Instant Scrap",
+        "Solid Steel Ingot",
+        "Steel Ingot"
+      ],
+      "producedIn": [
+        "Biocoal",
+        "Charcoal"
+      ]
+    },
+    "Alien Protein": {
+      "name": "Alien Protein",
+      "usedIn": [
+        "Biomass (Alien Protein)",
+        "Alien DNA Capsules"
+      ],
+      "producedIn": [
+        "Hatcher Protein",
+        "Hog Protein",
+        "Spitter Protein",
+        "Stinger Protein"
+      ]
+    },
+    "Leaves": {
+      "name": "Leaves",
+      "usedIn": [
+        "Biomass (Leaves)"
+      ],
+      "producedIn": []
+    },
+    "Mycelia": {
+      "name": "Mycelia",
+      "usedIn": [
+        "Biomass (Mycelia)",
+        "Fabric"
+      ],
+      "producedIn": []
+    },
+    "Wood": {
+      "name": "Wood",
+      "usedIn": [
+        "Biomass (Wood)",
+        "Charcoal"
+      ],
+      "producedIn": []
+    },
+    "Wire": {
+      "name": "Wire",
+      "usedIn": [
+        "Cable",
+        "Insulated Cable",
+        "Stator",
+        "Steel Rotor",
+        "Stitched Iron Plate",
+        "Automated Speed Wiring",
+        "Beacon",
+        "Classic Battery",
+        "Super-State Computer",
+        "Coated Cable"
+      ],
+      "producedIn": [
+        "Caterium Wire",
+        "Iron Wire",
+        "Wire",
+        "Fused Wire"
+      ]
+    },
+    "Cable": {
+      "name": "Cable",
+      "usedIn": [
+        "Automated Wiring",
+        "Beacon",
+        "Computer",
+        "Crystal Oscillator",
+        "High-Speed Connector"
+      ],
+      "producedIn": [
+        "Cable",
+        "Insulated Cable",
+        "Quickwire Cable",
+        "Coated Cable"
+      ]
+    },
+    "Candy Cane": {
+      "name": "Candy Cane",
+      "usedIn": [
+        "FICSMAS Wonder Star",
+        "Sweet Fireworks"
+      ],
+      "producedIn": [
+        "Candy Cane"
+      ]
+    },
+    "Iron Ingot": {
+      "name": "Iron Ingot",
+      "usedIn": [
+        "Cast Screw",
+        "Iron Plate",
+        "Iron Rod",
+        "Iron Wire",
+        "Coated Iron Plate",
+        "Iron FICSMAS Ornament",
+        "Solid Steel Ingot"
+      ],
+      "producedIn": [
+        "Pure Iron Ingot",
+        "Iron Ingot",
+        "Iron Alloy Ingot"
+      ]
+    },
+    "Screw": {
+      "name": "Screw",
+      "usedIn": [
+        "Bolted Frame",
+        "Bolted Iron Plate",
+        "Copper Rotor",
+        "Reinforced Iron Plate",
+        "Rotor",
+        "Computer",
+        "Heavy Flexible Frame",
+        "Heavy Modular Frame"
+      ],
+      "producedIn": [
+        "Cast Screw",
+        "Screw",
+        "Steel Screw"
+      ]
+    },
+    "Caterium Ingot": {
+      "name": "Caterium Ingot",
+      "usedIn": [
+        "Caterium Wire",
+        "Quickwire",
+        "Fused Quickwire",
+        "Fused Wire"
+      ],
+      "producedIn": [
+        "Pure Caterium Ingot",
+        "Caterium Ingot"
+      ]
+    },
+    "Flower Petals": {
+      "name": "Flower Petals",
+      "usedIn": [
+        "Colour Cartridge"
+      ],
+      "producedIn": []
+    },
+    "Colour Cartridge": {
+      "name": "Colour Cartridge",
+      "usedIn": [],
+      "producedIn": [
+        "Colour Cartridge"
+      ]
+    },
+    "Limestone": {
+      "name": "Limestone",
+      "usedIn": [
+        "Concrete",
+        "Cheap Silica",
+        "Fine Concrete",
+        "Rubber Concrete",
+        "Wet Concrete"
+      ],
+      "producedIn": []
+    },
+    "Concrete": {
+      "name": "Concrete",
+      "usedIn": [
+        "Encased Industrial Beam",
+        "Encased Industrial Pipe",
+        "Encased Plutonium Cell",
+        "Heavy Encased Frame",
+        "Encased Uranium Cell"
+      ],
+      "producedIn": [
+        "Concrete",
+        "Fine Concrete",
+        "Rubber Concrete",
+        "Wet Concrete"
+      ]
+    },
+    "Copper Ingot": {
+      "name": "Copper Ingot",
+      "usedIn": [
+        "Copper Powder",
+        "Copper Sheet",
+        "Wire",
+        "Alclad Aluminium Sheet",
+        "Alclad Casing",
+        "Fused Quickwire",
+        "Fused Wire",
+        "Steamed Copper Sheet",
+        "Copper FICSMAS Ornament"
+      ],
+      "producedIn": [
+        "Pure Copper Ingot",
+        "Copper Ingot",
+        "Copper Alloy Ingot"
+      ]
+    },
+    "Copper Powder": {
+      "name": "Copper Powder",
+      "usedIn": [
+        "Nuclear Pasta"
+      ],
+      "producedIn": [
+        "Copper Powder"
+      ]
+    },
+    "Copper Sheet": {
+      "name": "Copper Sheet",
+      "usedIn": [
+        "AI Limiter",
+        "Circuit Board",
+        "Coated Iron Canister",
+        "Copper Rotor",
+        "Heat Sink",
+        "Rifle Ammo",
+        "Silicon Circuit Board"
+      ],
+      "producedIn": [
+        "Copper Sheet",
+        "Steamed Copper Sheet"
+      ]
+    },
+    "Plastic": {
+      "name": "Plastic",
+      "usedIn": [
+        "Empty Canister",
+        "Caterium Circuit Board",
+        "Circuit Board",
+        "Coated Iron Plate",
+        "Steel Coated Plate",
+        "Classic Battery",
+        "Computer",
+        "Plastic Smart Plating",
+        "Supercomputer",
+        "Recycled Rubber"
+      ],
+      "producedIn": [
+        "Plastic",
+        "Recycled Plastic",
+        "Residual Plastic"
+      ]
+    },
+    "Empty Canister": {
+      "name": "Empty Canister",
+      "usedIn": [
+        "Packaged Alumina Solution",
+        "Packaged Fuel",
+        "Packaged Heavy Oil Residue",
+        "Packaged Liquid Biofuel",
+        "Packaged Oil",
+        "Packaged Sulfuric Acid",
+        "Packaged Turbofuel",
+        "Packaged Water"
+      ],
+      "producedIn": [
+        "Empty Canister",
+        "Steel Canister",
+        "Coated Iron Canister",
+        "Unpackage Alumina Solution",
+        "Unpackage Fuel",
+        "Unpackage Heavy Oil Residue",
+        "Unpackage Liquid Biofuel",
+        "Unpackage Oil",
+        "Unpackage Sulfuric Acid",
+        "Unpackage Turbofuel",
+        "Unpackage Water"
+      ]
+    },
+    "Empty Fluid Tank": {
+      "name": "Empty Fluid Tank",
+      "usedIn": [
+        "Packaged Nitric Acid",
+        "Packaged Nitrogen Gas"
+      ],
+      "producedIn": [
+        "Empty Fluid Tank",
+        "Unpackage Nitric Acid",
+        "Unpackage Nitrogen Gas"
+      ]
+    },
+    "FICSMAS Bow": {
+      "name": "FICSMAS Bow",
+      "usedIn": [
+        "Fancy Fireworks"
+      ],
+      "producedIn": [
+        "FICSMAS Bow"
+      ]
+    },
+    "FICSMAS Tree Branch": {
+      "name": "FICSMAS Tree Branch",
+      "usedIn": [
+        "Fancy Fireworks",
+        "FICSMAS Decoration",
+        "Sparkly Fireworks",
+        "Sweet Fireworks"
+      ],
+      "producedIn": [
+        "FICSMAS Tree Branch"
+      ]
+    },
+    "Hatcher Remains": {
+      "name": "Hatcher Remains",
+      "usedIn": [
+        "Hatcher Protein"
+      ],
+      "producedIn": []
+    },
+    "Hog Remains": {
+      "name": "Hog Remains",
+      "usedIn": [
+        "Hog Protein"
+      ],
+      "producedIn": []
+    },
+    "Iron Plate": {
+      "name": "Iron Plate",
+      "usedIn": [
+        "Adhered Iron Plate",
+        "Bolted Iron Plate",
+        "Coated Iron Canister",
+        "Reinforced Iron Plate",
+        "Stitched Iron Plate",
+        "Automated Miner",
+        "Beacon",
+        "Nitric Acid"
+      ],
+      "producedIn": [
+        "Iron Plate",
+        "Coated Iron Plate",
+        "Steel Coated Plate"
+      ]
+    },
+    "Iron Rod": {
+      "name": "Iron Rod",
+      "usedIn": [
+        "Screw",
+        "Iron Rebar",
+        "Modular Frame",
+        "Rotor",
+        "Automated Miner",
+        "Beacon"
+      ],
+      "producedIn": [
+        "Iron Rod",
+        "Steel Rod"
+      ]
+    },
+    "Alien DNA Capsules": {
+      "name": "Alien DNA Capsules",
+      "usedIn": [],
+      "producedIn": [
+        "Alien DNA Capsules"
+      ]
+    },
+    "Power Slug (Blue)": {
+      "name": "Power Slug (Blue)",
+      "usedIn": [
+        "Power Shard (1)"
+      ],
+      "producedIn": []
+    },
+    "Power Shard": {
+      "name": "Power Shard",
+      "usedIn": [],
+      "producedIn": [
+        "Power Shard (1)",
+        "Power Shard (2)",
+        "Power Shard (5)"
+      ]
+    },
+    "Power Slug (Yellow)": {
+      "name": "Power Slug (Yellow)",
+      "usedIn": [
+        "Power Shard (2)"
+      ],
+      "producedIn": []
+    },
+    "Power Slug (Purple)": {
+      "name": "Power Slug (Purple)",
+      "usedIn": [
+        "Power Shard (5)"
+      ],
+      "producedIn": []
+    },
+    "Raw Quartz": {
+      "name": "Raw Quartz",
+      "usedIn": [
+        "Quartz Crystal",
+        "Silica",
+        "Cheap Silica",
+        "Pure Quartz Crystal"
+      ],
+      "producedIn": []
+    },
+    "Quartz Crystal": {
+      "name": "Quartz Crystal",
+      "usedIn": [
+        "Shatter Rebar",
+        "Crystal Oscillator",
+        "Insulated Crystal Oscillator",
+        "Radio Connection Unit"
+      ],
+      "producedIn": [
+        "Quartz Crystal",
+        "Pure Quartz Crystal"
+      ]
+    },
+    "Quickwire": {
+      "name": "Quickwire",
+      "usedIn": [
+        "AI Limiter",
+        "Caterium Circuit Board",
+        "Quickwire Cable",
+        "Quickwire Stator",
+        "Stun Rebar",
+        "Caterium Computer",
+        "High-Speed Connector",
+        "Infused Uranium Cell",
+        "Iodine Infused Filter",
+        "Silicon High-Speed Connector"
+      ],
+      "producedIn": [
+        "Quickwire",
+        "Fused Quickwire"
+      ]
+    },
+    "Silica": {
+      "name": "Silica",
+      "usedIn": [
+        "Fine Concrete",
+        "Silicon Circuit Board",
+        "Infused Uranium Cell",
+        "Silicon High-Speed Connector",
+        "Non-fissile Uranium",
+        "Aluminium Ingot"
+      ],
+      "producedIn": [
+        "Silica",
+        "Cheap Silica",
+        "Alumina Solution"
+      ]
+    },
+    "Snowball": {
+      "name": "Snowball",
+      "usedIn": [],
+      "producedIn": [
+        "Snowball"
+      ]
+    },
+    "Solid Biofuel": {
+      "name": "Solid Biofuel",
+      "usedIn": [
+        "Liquid Biofuel"
+      ],
+      "producedIn": [
+        "Solid Biofuel"
+      ]
+    },
+    "Iron Rebar": {
+      "name": "Iron Rebar",
+      "usedIn": [
+        "Shatter Rebar",
+        "Stun Rebar",
+        "Explosive Rebar"
+      ],
+      "producedIn": [
+        "Iron Rebar"
+      ]
+    },
+    "Plasma Spitter Remains": {
+      "name": "Plasma Spitter Remains",
+      "usedIn": [
+        "Spitter Protein"
+      ],
+      "producedIn": []
+    },
+    "Steel Ingot": {
+      "name": "Steel Ingot",
+      "usedIn": [
+        "Steel Beam",
+        "Steel Canister",
+        "Steel Pipe",
+        "Steel Rod",
+        "Steel Coated Plate"
+      ],
+      "producedIn": [
+        "Coke Steel Ingot",
+        "Compacted Steel Ingot",
+        "Solid Steel Ingot",
+        "Steel Ingot"
+      ]
+    },
+    "Steel Beam": {
+      "name": "Steel Beam",
+      "usedIn": [
+        "Steel Screw",
+        "Encased Industrial Beam",
+        "Versatile Framework",
+        "Crystal Beacon",
+        "Flexible Framework",
+        "Plutonium Fuel Rod"
+      ],
+      "producedIn": [
+        "Steel Beam"
+      ]
+    },
+    "Steel Pipe": {
+      "name": "Steel Pipe",
+      "usedIn": [
+        "Encased Industrial Pipe",
+        "Nobelisk",
+        "Quickwire Stator",
+        "Stator",
+        "Steel Rotor",
+        "Steeled Frame",
+        "Automated Miner",
+        "Crystal Beacon",
+        "Explosive Rebar",
+        "Heavy Encased Frame",
+        "Heavy Modular Frame",
+        "Seismic Nobelisk"
+      ],
+      "producedIn": [
+        "Steel Pipe"
+      ]
+    },
+    "Stinger Remains": {
+      "name": "Stinger Remains",
+      "usedIn": [
+        "Stinger Protein"
+      ],
+      "producedIn": []
+    },
+    "Rubber": {
+      "name": "Rubber",
+      "usedIn": [
+        "Adhered Iron Plate",
+        "Electrode Circuit Board",
+        "Heat Exchanger",
+        "Insulated Cable",
+        "Quickwire Cable",
+        "Rubber Concrete",
+        "Caterium Computer",
+        "Flexible Framework",
+        "Gas Filter",
+        "Heavy Flexible Frame",
+        "Insulated Crystal Oscillator",
+        "Modular Engine",
+        "Radio Control System",
+        "Turbo Motor",
+        "Recycled Plastic",
+        "Cooling System"
+      ],
+      "producedIn": [
+        "Recycled Rubber",
+        "Residual Rubber",
+        "Rubber"
+      ]
+    },
+    "Reinforced Iron Plate": {
+      "name": "Reinforced Iron Plate",
+      "usedIn": [
+        "Bolted Frame",
+        "Modular Frame",
+        "Smart Plating",
+        "Steeled Frame",
+        "Crystal Oscillator",
+        "Plastic Smart Plating"
+      ],
+      "producedIn": [
+        "Adhered Iron Plate",
+        "Bolted Iron Plate",
+        "Reinforced Iron Plate",
+        "Stitched Iron Plate"
+      ]
+    },
+    "AI Limiter": {
+      "name": "AI Limiter",
+      "usedIn": [
+        "Electromagnetic Control Rod",
+        "Insulated Crystal Oscillator",
+        "Nuke Nobelisk",
+        "Supercomputer"
+      ],
+      "producedIn": [
+        "AI Limiter"
+      ]
+    },
+    "Alclad Aluminium Sheet": {
+      "name": "Alclad Aluminium Sheet",
+      "usedIn": [
+        "Heat Sink",
+        "Classic Battery"
+      ],
+      "producedIn": [
+        "Alclad Aluminium Sheet"
+      ]
+    },
+    "Adaptive Control Unit": {
+      "name": "Adaptive Control Unit",
+      "usedIn": [
+        "Assembly Director System"
+      ],
+      "producedIn": [
+        "Adaptive Control Unit"
+      ]
+    },
+    "Supercomputer": {
+      "name": "Supercomputer",
+      "usedIn": [
+        "Assembly Director System"
+      ],
+      "producedIn": [
+        "OC Supercomputer",
+        "Super-State Computer",
+        "Supercomputer"
+      ]
+    },
+    "Assembly Director System": {
+      "name": "Assembly Director System",
+      "usedIn": [],
+      "producedIn": [
+        "Assembly Director System"
+      ]
+    },
+    "Stator": {
+      "name": "Stator",
+      "usedIn": [
+        "Automated Wiring",
+        "Electromagnetic Connection Rod",
+        "Electromagnetic Control Rod",
+        "Motor",
+        "Automated Speed Wiring",
+        "Rigour Motor",
+        "Turbo Pressure Motor"
+      ],
+      "producedIn": [
+        "Quickwire Stator",
+        "Stator"
+      ]
+    },
+    "Automated Wiring": {
+      "name": "Automated Wiring",
+      "usedIn": [
+        "Adaptive Control Unit"
+      ],
+      "producedIn": [
+        "Automated Wiring",
+        "Automated Speed Wiring"
+      ]
+    },
+    "Sulfur": {
+      "name": "Sulfur",
+      "usedIn": [
+        "Black Powder",
+        "Compacted Coal",
+        "Fine Black Powder",
+        "Classic Battery",
+        "Infused Uranium Cell",
+        "Sulfuric Acid",
+        "Turbo Blend Fuel"
+      ],
+      "producedIn": []
+    },
+    "Black Powder": {
+      "name": "Black Powder",
+      "usedIn": [
+        "Nobelisk",
+        "Seismic Nobelisk",
+        "Smokeless Powder"
+      ],
+      "producedIn": [
+        "Black Powder",
+        "Fine Black Powder"
+      ]
+    },
+    "Modular Frame": {
+      "name": "Modular Frame",
+      "usedIn": [
+        "Versatile Framework",
+        "Flexible Framework",
+        "Heavy Encased Frame",
+        "Heavy Flexible Frame",
+        "Heavy Modular Frame"
+      ],
+      "producedIn": [
+        "Bolted Frame",
+        "Modular Frame",
+        "Steeled Frame"
+      ]
+    },
+    "Circuit Board": {
+      "name": "Circuit Board",
+      "usedIn": [
+        "Crystal Computer",
+        "Adaptive Control Unit",
+        "Caterium Computer",
+        "Computer",
+        "High-Speed Connector",
+        "Radio Control System",
+        "Silicon High-Speed Connector"
+      ],
+      "producedIn": [
+        "Caterium Circuit Board",
+        "Circuit Board",
+        "Electrode Circuit Board",
+        "Silicon Circuit Board"
+      ]
+    },
+    "Nobelisk": {
+      "name": "Nobelisk",
+      "usedIn": [
+        "Cluster Nobelisk",
+        "Gas Nobelisk",
+        "Pulse Nobelisk",
+        "Nuke Nobelisk"
+      ],
+      "producedIn": [
+        "Nobelisk",
+        "Seismic Nobelisk"
+      ]
+    },
+    "Smokeless Powder": {
+      "name": "Smokeless Powder",
+      "usedIn": [
+        "Cluster Nobelisk",
+        "Rifle Ammo",
+        "Explosive Rebar",
+        "Nuke Nobelisk"
+      ],
+      "producedIn": [
+        "Smokeless Powder"
+      ]
+    },
+    "Cluster Nobelisk": {
+      "name": "Cluster Nobelisk",
+      "usedIn": [],
+      "producedIn": [
+        "Cluster Nobelisk"
+      ]
+    },
+    "Compacted Coal": {
+      "name": "Compacted Coal",
+      "usedIn": [
+        "Fine Black Powder",
+        "Turbo Heavy Fuel",
+        "Turbofuel",
+        "Compacted Steel Ingot"
+      ],
+      "producedIn": [
+        "Compacted Coal"
+      ]
+    },
+    "Rotor": {
+      "name": "Rotor",
+      "usedIn": [
+        "Electric Motor",
+        "Motor",
+        "Smart Plating",
+        "Plastic Smart Plating",
+        "Rigour Motor",
+        "Turbo Electric Motor"
+      ],
+      "producedIn": [
+        "Copper Rotor",
+        "Rotor",
+        "Steel Rotor"
+      ]
+    },
+    "Crystal Oscillator": {
+      "name": "Crystal Oscillator",
+      "usedIn": [
+        "Crystal Computer",
+        "Pulse Nobelisk",
+        "Crystal Beacon",
+        "Radio Control System",
+        "Radio Control Unit",
+        "Rigour Motor",
+        "Seismic Nobelisk",
+        "Uranium Fuel Unit"
+      ],
+      "producedIn": [
+        "Crystal Oscillator",
+        "Insulated Crystal Oscillator"
+      ]
+    },
+    "Computer": {
+      "name": "Computer",
+      "usedIn": [
+        "Adaptive Control Unit",
+        "Radio Control Unit",
+        "Super-State Computer",
+        "Supercomputer"
+      ],
+      "producedIn": [
+        "Crystal Computer",
+        "Caterium Computer",
+        "Computer"
+      ]
+    },
+    "Electromagnetic Control Rod": {
+      "name": "Electromagnetic Control Rod",
+      "usedIn": [
+        "Electric Motor",
+        "Magnetic Field Generator",
+        "Plutonium Fuel Rod",
+        "Super-State Computer",
+        "Turbo Electric Motor",
+        "Uranium Fuel Rod",
+        "Uranium Fuel Unit"
+      ],
+      "producedIn": [
+        "Electromagnetic Connection Rod",
+        "Electromagnetic Control Rod"
+      ]
+    },
+    "Motor": {
+      "name": "Motor",
+      "usedIn": [
+        "Automated Miner",
+        "Modular Engine",
+        "Turbo Electric Motor",
+        "Turbo Motor",
+        "Turbo Pressure Motor",
+        "Cooling Device"
+      ],
+      "producedIn": [
+        "Electric Motor",
+        "Motor",
+        "Rigour Motor"
+      ]
+    },
+    "Petroleum Coke": {
+      "name": "Petroleum Coke",
+      "usedIn": [
+        "Electrode Circuit Board",
+        "Electrode - Aluminium Scrap",
+        "Turbo Blend Fuel",
+        "Coke Steel Ingot"
+      ],
+      "producedIn": [
+        "Petroleum Coke"
+      ]
+    },
+    "High-Speed Connector": {
+      "name": "High-Speed Connector",
+      "usedIn": [
+        "Electromagnetic Connection Rod",
+        "Homing Rifle Ammo",
+        "Automated Speed Wiring",
+        "Radio Connection Unit",
+        "Supercomputer"
+      ],
+      "producedIn": [
+        "High-Speed Connector",
+        "Silicon High-Speed Connector"
+      ]
+    },
+    "Encased Industrial Beam": {
+      "name": "Encased Industrial Beam",
+      "usedIn": [
+        "Heavy Encased Frame",
+        "Heavy Flexible Frame",
+        "Heavy Modular Frame",
+        "Uranium Fuel Rod"
+      ],
+      "producedIn": [
+        "Encased Industrial Beam",
+        "Encased Industrial Pipe"
+      ]
+    },
+    "Plutonium Pellet": {
+      "name": "Plutonium Pellet",
+      "usedIn": [
+        "Encased Plutonium Cell"
+      ],
+      "producedIn": [
+        "Plutonium Pellet"
+      ]
+    },
+    "Encased Plutonium Cell": {
+      "name": "Encased Plutonium Cell",
+      "usedIn": [
+        "Plutonium Fuel Unit",
+        "Plutonium Fuel Rod"
+      ],
+      "producedIn": [
+        "Encased Plutonium Cell",
+        "Instant Plutonium Cell"
+      ]
+    },
+    "Fabric": {
+      "name": "Fabric",
+      "usedIn": [
+        "Gas Filter"
+      ],
+      "producedIn": [
+        "Fabric",
+        "Polyester Fabric"
+      ]
+    },
+    "Fancy Fireworks": {
+      "name": "Fancy Fireworks",
+      "usedIn": [],
+      "producedIn": [
+        "Fancy Fireworks"
+      ]
+    },
+    "FICSMAS Ornament Bundle": {
+      "name": "FICSMAS Ornament Bundle",
+      "usedIn": [
+        "FICSMAS Decoration"
+      ],
+      "producedIn": [
+        "FICSMAS Ornament Bundle"
+      ]
+    },
+    "FICSMAS Decoration": {
+      "name": "FICSMAS Decoration",
+      "usedIn": [
+        "FICSMAS Wonder Star"
+      ],
+      "producedIn": [
+        "FICSMAS Decoration"
+      ]
+    },
+    "FICSMAS Ornament (Copper)": {
+      "name": "FICSMAS Ornament (Copper)",
+      "usedIn": [
+        "FICSMAS Ornament Bundle"
+      ],
+      "producedIn": [
+        "Copper FICSMAS Ornament"
+      ]
+    },
+    "FICSMAS Ornament (Iron)": {
+      "name": "FICSMAS Ornament (Iron)",
+      "usedIn": [
+        "FICSMAS Ornament Bundle"
+      ],
+      "producedIn": [
+        "Iron FICSMAS Ornament"
+      ]
+    },
+    "FICSMAS Wonder Star": {
+      "name": "FICSMAS Wonder Star",
+      "usedIn": [],
+      "producedIn": [
+        "FICSMAS Wonder Star"
+      ]
+    },
+    "Gas Nobelisk": {
+      "name": "Gas Nobelisk",
+      "usedIn": [],
+      "producedIn": [
+        "Gas Nobelisk"
+      ]
+    },
+    "Heat Sink": {
+      "name": "Heat Sink",
+      "usedIn": [
+        "Plutonium Fuel Rod",
+        "Radio Connection Unit",
+        "Cooling Device",
+        "Cooling System"
+      ],
+      "producedIn": [
+        "Heat Exchanger",
+        "Heat Sink"
+      ]
+    },
+    "Rifle Ammo": {
+      "name": "Rifle Ammo",
+      "usedIn": [
+        "Homing Rifle Ammo",
+        "Turbo Rifle Ammo",
+        "Turbo Rifle Ammo"
+      ],
+      "producedIn": [
+        "Rifle Ammo"
+      ]
+    },
+    "Homing Rifle Ammo": {
+      "name": "Homing Rifle Ammo",
+      "usedIn": [],
+      "producedIn": [
+        "Homing Rifle Ammo"
+      ]
+    },
+    "Radio Control Unit": {
+      "name": "Radio Control Unit",
+      "usedIn": [
+        "OC Supercomputer",
+        "Pressure Conversion Cube",
+        "Turbo Electric Motor",
+        "Turbo Motor"
+      ],
+      "producedIn": [
+        "Radio Connection Unit",
+        "Radio Control System",
+        "Radio Control Unit"
+      ]
+    },
+    "Cooling System": {
+      "name": "Cooling System",
+      "usedIn": [
+        "OC Supercomputer",
+        "Thermal Propulsion Rocket",
+        "Turbo Motor"
+      ],
+      "producedIn": [
+        "Cooling Device",
+        "Cooling System"
+      ]
+    },
+    "Pressure Conversion Cube": {
+      "name": "Pressure Conversion Cube",
+      "usedIn": [
+        "Plutonium Fuel Unit",
+        "Turbo Pressure Motor",
+        "Nuclear Pasta"
+      ],
+      "producedIn": [
+        "Pressure Conversion Cube"
+      ]
+    },
+    "Plutonium Fuel Rod": {
+      "name": "Plutonium Fuel Rod",
+      "usedIn": [],
+      "producedIn": [
+        "Plutonium Fuel Unit",
+        "Plutonium Fuel Rod"
+      ]
+    },
+    "Fused Modular Frame": {
+      "name": "Fused Modular Frame",
+      "usedIn": [
+        "Pressure Conversion Cube",
+        "Thermal Propulsion Rocket"
+      ],
+      "producedIn": [
+        "Fused Modular Frame",
+        "Heat-Fused Frame"
+      ]
+    },
+    "Pulse Nobelisk": {
+      "name": "Pulse Nobelisk",
+      "usedIn": [],
+      "producedIn": [
+        "Pulse Nobelisk"
+      ]
+    },
+    "Shatter Rebar": {
+      "name": "Shatter Rebar",
+      "usedIn": [],
+      "producedIn": [
+        "Shatter Rebar"
+      ]
+    },
+    "Smart Plating": {
+      "name": "Smart Plating",
+      "usedIn": [
+        "Modular Engine"
+      ],
+      "producedIn": [
+        "Smart Plating",
+        "Plastic Smart Plating"
+      ]
+    },
+    "Sparkly Fireworks": {
+      "name": "Sparkly Fireworks",
+      "usedIn": [],
+      "producedIn": [
+        "Sparkly Fireworks"
+      ]
+    },
+    "Stun Rebar": {
+      "name": "Stun Rebar",
+      "usedIn": [],
+      "producedIn": [
+        "Stun Rebar"
+      ]
+    },
+    "Sweet Fireworks": {
+      "name": "Sweet Fireworks",
+      "usedIn": [],
+      "producedIn": [
+        "Sweet Fireworks"
+      ]
+    },
+    "Versatile Framework": {
+      "name": "Versatile Framework",
+      "usedIn": [
+        "Magnetic Field Generator"
+      ],
+      "producedIn": [
+        "Versatile Framework",
+        "Flexible Framework"
+      ]
+    },
+    "Heavy Modular Frame": {
+      "name": "Heavy Modular Frame",
+      "usedIn": [
+        "Adaptive Control Unit",
+        "Fused Modular Frame",
+        "Heat-Fused Frame"
+      ],
+      "producedIn": [
+        "Heavy Encased Frame",
+        "Heavy Flexible Frame",
+        "Heavy Modular Frame"
+      ]
+    },
+    "Portable Miner": {
+      "name": "Portable Miner",
+      "usedIn": [],
+      "producedIn": [
+        "Automated Miner"
+      ]
+    },
+    "Beacon": {
+      "name": "Beacon",
+      "usedIn": [
+        "Uranium Fuel Unit"
+      ],
+      "producedIn": [
+        "Beacon",
+        "Crystal Beacon"
+      ]
+    },
+    "Battery": {
+      "name": "Battery",
+      "usedIn": [
+        "Magnetic Field Generator",
+        "Super-State Computer"
+      ],
+      "producedIn": [
+        "Classic Battery",
+        "Battery"
+      ]
+    },
+    "Explosive Rebar": {
+      "name": "Explosive Rebar",
+      "usedIn": [],
+      "producedIn": [
+        "Explosive Rebar"
+      ]
+    },
+    "Gas Filter": {
+      "name": "Gas Filter",
+      "usedIn": [
+        "Iodine Infused Filter"
+      ],
+      "producedIn": [
+        "Gas Filter"
+      ]
+    },
+    "Uranium": {
+      "name": "Uranium",
+      "usedIn": [
+        "Infused Uranium Cell",
+        "Encased Uranium Cell",
+        "Fertile Uranium"
+      ],
+      "producedIn": []
+    },
+    "Encased Uranium Cell": {
+      "name": "Encased Uranium Cell",
+      "usedIn": [
+        "Nuke Nobelisk",
+        "Uranium Fuel Rod",
+        "Uranium Fuel Unit"
+      ],
+      "producedIn": [
+        "Infused Uranium Cell",
+        "Encased Uranium Cell"
+      ]
+    },
+    "Iodine Infused Filter": {
+      "name": "Iodine Infused Filter",
+      "usedIn": [],
+      "producedIn": [
+        "Iodine Infused Filter"
+      ]
+    },
+    "Magnetic Field Generator": {
+      "name": "Magnetic Field Generator",
+      "usedIn": [],
+      "producedIn": [
+        "Magnetic Field Generator"
+      ]
+    },
+    "Modular Engine": {
+      "name": "Modular Engine",
+      "usedIn": [
+        "Thermal Propulsion Rocket"
+      ],
+      "producedIn": [
+        "Modular Engine"
+      ]
+    },
+    "Nuke Nobelisk": {
+      "name": "Nuke Nobelisk",
+      "usedIn": [],
+      "producedIn": [
+        "Nuke Nobelisk"
+      ]
+    },
+    "Turbo Motor": {
+      "name": "Turbo Motor",
+      "usedIn": [
+        "Thermal Propulsion Rocket"
+      ],
+      "producedIn": [
+        "Turbo Electric Motor",
+        "Turbo Motor",
+        "Turbo Pressure Motor"
+      ]
+    },
+    "Thermal Propulsion Rocket": {
+      "name": "Thermal Propulsion Rocket",
+      "usedIn": [],
+      "producedIn": [
+        "Thermal Propulsion Rocket"
+      ]
+    },
+    "Nitrogen Gas (Packaged)": {
+      "name": "Nitrogen Gas (Packaged)",
+      "usedIn": [
+        "Turbo Pressure Motor",
+        "Unpackage Nitrogen Gas"
+      ],
+      "producedIn": [
+        "Packaged Nitrogen Gas"
+      ]
+    },
+    "Turbofuel (Packaged)": {
+      "name": "Turbofuel (Packaged)",
+      "usedIn": [
+        "Turbo Rifle Ammo",
+        "Unpackage Turbofuel"
+      ],
+      "producedIn": [
+        "Packaged Turbofuel"
+      ]
+    },
+    "Turbo Rifle Ammo": {
+      "name": "Turbo Rifle Ammo",
+      "usedIn": [],
+      "producedIn": [
+        "Turbo Rifle Ammo",
+        "Turbo Rifle Ammo"
+      ]
+    },
+    "Uranium Fuel Rod": {
+      "name": "Uranium Fuel Rod",
+      "usedIn": [],
+      "producedIn": [
+        "Uranium Fuel Rod",
+        "Uranium Fuel Unit"
+      ]
+    },
+    "Alumina Solution": {
+      "name": "Alumina Solution",
+      "usedIn": [
+        "Packaged Alumina Solution",
+        "Aluminium Scrap",
+        "Electrode - Aluminium Scrap",
+        "Battery"
+      ],
+      "producedIn": [
+        "Unpackage Alumina Solution",
+        "Alumina Solution",
+        "Sloppy Alumina"
+      ]
+    },
+    "Alumina Solution (Packaged)": {
+      "name": "Alumina Solution (Packaged)",
+      "usedIn": [
+        "Unpackage Alumina Solution"
+      ],
+      "producedIn": [
+        "Packaged Alumina Solution"
+      ]
+    },
+    "Fuel": {
+      "name": "Fuel",
+      "usedIn": [
+        "Packaged Fuel",
+        "Recycled Plastic",
+        "Recycled Rubber",
+        "Turbofuel",
+        "Heat-Fused Frame",
+        "Turbo Blend Fuel"
+      ],
+      "producedIn": [
+        "Unpackage Fuel",
+        "Fuel",
+        "Residual Fuel",
+        "Diluted Fuel"
+      ]
+    },
+    "Fuel (Packaged)": {
+      "name": "Fuel (Packaged)",
+      "usedIn": [
+        "Unpackage Fuel"
+      ],
+      "producedIn": [
+        "Packaged Fuel",
+        "Diluted Packaged Fuel"
+      ]
+    },
+    "Heavy Oil Residue": {
+      "name": "Heavy Oil Residue",
+      "usedIn": [
+        "Packaged Heavy Oil Residue",
+        "Coated Cable",
+        "Diluted Packaged Fuel",
+        "Petroleum Coke",
+        "Residual Fuel",
+        "Smokeless Powder",
+        "Turbo Heavy Fuel",
+        "Diluted Fuel",
+        "Turbo Blend Fuel"
+      ],
+      "producedIn": [
+        "Unpackage Heavy Oil Residue",
+        "Heavy Oil Residue",
+        "Plastic",
+        "Polymer Resin",
+        "Rubber"
+      ]
+    },
+    "Heavy Oil Residue (Packaged)": {
+      "name": "Heavy Oil Residue (Packaged)",
+      "usedIn": [
+        "Unpackage Heavy Oil Residue"
+      ],
+      "producedIn": [
+        "Packaged Heavy Oil Residue"
+      ]
+    },
+    "Liquid Biofuel": {
+      "name": "Liquid Biofuel",
+      "usedIn": [
+        "Packaged Liquid Biofuel"
+      ],
+      "producedIn": [
+        "Unpackage Liquid Biofuel",
+        "Liquid Biofuel"
+      ]
+    },
+    "Liquid Biofuel (Packaged)": {
+      "name": "Liquid Biofuel (Packaged)",
+      "usedIn": [
+        "Unpackage Liquid Biofuel"
+      ],
+      "producedIn": [
+        "Packaged Liquid Biofuel"
+      ]
+    },
+    "Nitric Acid": {
+      "name": "Nitric Acid",
+      "usedIn": [
+        "Packaged Nitric Acid",
+        "Fertile Uranium",
+        "Heat-Fused Frame",
+        "Non-fissile Uranium"
+      ],
+      "producedIn": [
+        "Unpackage Nitric Acid",
+        "Nitric Acid"
+      ]
+    },
+    "Nitric Acid (Packaged)": {
+      "name": "Nitric Acid (Packaged)",
+      "usedIn": [
+        "Unpackage Nitric Acid"
+      ],
+      "producedIn": [
+        "Packaged Nitric Acid"
+      ]
+    },
+    "Nitrogen Gas": {
+      "name": "Nitrogen Gas",
+      "usedIn": [
+        "Packaged Nitrogen Gas",
+        "Cooling Device",
+        "Cooling System",
+        "Fused Modular Frame",
+        "Nitric Acid"
+      ],
+      "producedIn": [
+        "Unpackage Nitrogen Gas"
+      ]
+    },
+    "Crude Oil": {
+      "name": "Crude Oil",
+      "usedIn": [
+        "Packaged Oil",
+        "Fuel",
+        "Heavy Oil Residue",
+        "Plastic",
+        "Polymer Resin",
+        "Rubber"
+      ],
+      "producedIn": [
+        "Unpackage Oil"
+      ]
+    },
+    "Crude Oil (Packaged)": {
+      "name": "Crude Oil (Packaged)",
+      "usedIn": [
+        "Unpackage Oil"
+      ],
+      "producedIn": [
+        "Packaged Oil"
+      ]
+    },
+    "Sulfuric Acid": {
+      "name": "Sulfuric Acid",
+      "usedIn": [
+        "Packaged Sulfuric Acid",
+        "Battery",
+        "Encased Uranium Cell",
+        "Fertile Uranium",
+        "Instant Scrap",
+        "Non-fissile Uranium"
+      ],
+      "producedIn": [
+        "Unpackage Sulfuric Acid",
+        "Sulfuric Acid",
+        "Encased Uranium Cell"
+      ]
+    },
+    "Sulfuric Acid (Packaged)": {
+      "name": "Sulfuric Acid (Packaged)",
+      "usedIn": [
+        "Unpackage Sulfuric Acid"
+      ],
+      "producedIn": [
+        "Packaged Sulfuric Acid"
+      ]
+    },
+    "Turbofuel": {
+      "name": "Turbofuel",
+      "usedIn": [
+        "Packaged Turbofuel",
+        "Turbo Rifle Ammo"
+      ],
+      "producedIn": [
+        "Unpackage Turbofuel",
+        "Turbo Heavy Fuel",
+        "Turbofuel",
+        "Turbo Blend Fuel"
+      ]
+    },
+    "Water": {
+      "name": "Water",
+      "usedIn": [
+        "Packaged Water",
+        "Alumina Solution",
+        "Liquid Biofuel",
+        "Polyester Fabric",
+        "Pure Caterium Ingot",
+        "Pure Copper Ingot",
+        "Pure Iron Ingot",
+        "Pure Quartz Crystal",
+        "Residual Plastic",
+        "Residual Rubber",
+        "Sloppy Alumina",
+        "Steamed Copper Sheet",
+        "Sulfuric Acid",
+        "Wet Concrete",
+        "Cooling System",
+        "Diluted Fuel",
+        "Instant Scrap",
+        "Nitric Acid"
+      ],
+      "producedIn": [
+        "Unpackage Water",
+        "Aluminium Scrap",
+        "Electrode - Aluminium Scrap",
+        "Battery",
+        "Fertile Uranium",
+        "Instant Scrap",
+        "Non-fissile Uranium"
+      ]
+    },
+    "Water (Packaged)": {
+      "name": "Water (Packaged)",
+      "usedIn": [
+        "Unpackage Water",
+        "Diluted Packaged Fuel"
+      ],
+      "producedIn": [
+        "Packaged Water"
+      ]
+    },
+    "Bauxite": {
+      "name": "Bauxite",
+      "usedIn": [
+        "Alumina Solution",
+        "Sloppy Alumina",
+        "Instant Scrap"
+      ],
+      "producedIn": []
+    },
+    "Aluminium Scrap": {
+      "name": "Aluminium Scrap",
+      "usedIn": [
+        "Pure Aluminium Ingot",
+        "Aluminium Ingot"
+      ],
+      "producedIn": [
+        "Aluminium Scrap",
+        "Electrode - Aluminium Scrap",
+        "Instant Scrap"
+      ]
+    },
+    "Polymer Resin": {
+      "name": "Polymer Resin",
+      "usedIn": [
+        "Polyester Fabric",
+        "Residual Plastic",
+        "Residual Rubber"
+      ],
+      "producedIn": [
+        "Fuel",
+        "Heavy Oil Residue",
+        "Polymer Resin"
+      ]
+    },
+    "Caterium Ore": {
+      "name": "Caterium Ore",
+      "usedIn": [
+        "Pure Caterium Ingot",
+        "Caterium Ingot"
+      ],
+      "producedIn": []
+    },
+    "Copper Ore": {
+      "name": "Copper Ore",
+      "usedIn": [
+        "Pure Copper Ingot",
+        "Copper Ingot",
+        "Copper Alloy Ingot",
+        "Iron Alloy Ingot"
+      ],
+      "producedIn": []
+    },
+    "Iron Ore": {
+      "name": "Iron Ore",
+      "usedIn": [
+        "Pure Iron Ingot",
+        "Iron Ingot",
+        "Coke Steel Ingot",
+        "Compacted Steel Ingot",
+        "Copper Alloy Ingot",
+        "Iron Alloy Ingot",
+        "Steel Ingot"
+      ],
+      "producedIn": []
+    },
+    "Uranium Waste": {
+      "name": "Uranium Waste",
+      "usedIn": [
+        "Fertile Uranium",
+        "Non-fissile Uranium",
+        "Plutonium Pellet"
+      ],
+      "producedIn": []
+    },
+    "Non-fissile Uranium": {
+      "name": "Non-fissile Uranium",
+      "usedIn": [
+        "Instant Plutonium Cell",
+        "Plutonium Pellet"
+      ],
+      "producedIn": [
+        "Fertile Uranium",
+        "Non-fissile Uranium"
+      ]
+    },
+    "Nuclear Pasta": {
+      "name": "Nuclear Pasta",
+      "usedIn": [],
+      "producedIn": [
+        "Nuclear Pasta"
+      ]
+    },
+    "FICSMAS Ornament (Blue)": {
+      "name": "FICSMAS Ornament (Blue)",
+      "usedIn": [
+        "Iron FICSMAS Ornament"
+      ],
+      "producedIn": [
+        "Blue FICSMAS Ornament"
+      ]
+    },
+    "FICSMAS Ornament (Red)": {
+      "name": "FICSMAS Ornament (Red)",
+      "usedIn": [
+        "Copper FICSMAS Ornament"
+      ],
+      "producedIn": [
+        "Red FICSMAS Ornament"
+      ]
+    }
+  },
+  "recipeMap": {
+    "Actual Snow": {
+      "building": "Constructor",
+      "name": "Actual Snow",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Actual Snow",
+          "quantity": 10
+        }
+      ]
+    },
+    "Aluminium Casing": {
+      "building": "Constructor",
+      "name": "Aluminium Casing",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 90
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 60
+        }
+      ]
+    },
+    "Biocoal": {
+      "building": "Constructor",
+      "name": "Biocoal",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Coal",
+          "quantity": 45
+        }
+      ]
+    },
+    "Biomass (Alien Protein)": {
+      "building": "Constructor",
+      "name": "Biomass (Alien Protein)",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 1500
+        }
+      ]
+    },
+    "Biomass (Leaves)": {
+      "building": "Constructor",
+      "name": "Biomass (Leaves)",
+      "craftTime": 5,
+      "inputs": [
+        {
+          "resource": "Leaves",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 60
+        }
+      ]
+    },
+    "Biomass (Mycelia)": {
+      "building": "Constructor",
+      "name": "Biomass (Mycelia)",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Mycelia",
+          "quantity": 150
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 150
+        }
+      ]
+    },
+    "Biomass (Wood)": {
+      "building": "Constructor",
+      "name": "Biomass (Wood)",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Wood",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 300
+        }
+      ]
+    },
+    "Cable": {
+      "building": "Constructor",
+      "name": "Cable",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Wire",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cable",
+          "quantity": 30
+        }
+      ]
+    },
+    "Candy Cane": {
+      "building": "Constructor",
+      "name": "Candy Cane",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Candy Cane",
+          "quantity": 5
+        }
+      ]
+    },
+    "Cast Screw": {
+      "building": "Constructor",
+      "name": "Cast Screw",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 12.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Screw",
+          "quantity": 50
+        }
+      ]
+    },
+    "Caterium Wire": {
+      "building": "Constructor",
+      "name": "Caterium Wire",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Wire",
+          "quantity": 120
+        }
+      ]
+    },
+    "Charcoal": {
+      "building": "Constructor",
+      "name": "Charcoal",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Wood",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Coal",
+          "quantity": 150
+        }
+      ]
+    },
+    "Colour Cartridge": {
+      "building": "Constructor",
+      "name": "Colour Cartridge",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Flower Petals",
+          "quantity": 50
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Colour Cartridge",
+          "quantity": 100
+        }
+      ]
+    },
+    "Concrete": {
+      "building": "Constructor",
+      "name": "Concrete",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Limestone",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Concrete",
+          "quantity": 15
+        }
+      ]
+    },
+    "Copper Powder": {
+      "building": "Constructor",
+      "name": "Copper Powder",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 300
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Powder",
+          "quantity": 50
+        }
+      ]
+    },
+    "Copper Sheet": {
+      "building": "Constructor",
+      "name": "Copper Sheet",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 10
+        }
+      ]
+    },
+    "Empty Canister": {
+      "building": "Constructor",
+      "name": "Empty Canister",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Empty Fluid Tank": {
+      "building": "Constructor",
+      "name": "Empty Fluid Tank",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Empty Fluid Tank",
+          "quantity": 60
+        }
+      ]
+    },
+    "FICSMAS Bow": {
+      "building": "Constructor",
+      "name": "FICSMAS Bow",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Bow",
+          "quantity": 5
+        }
+      ]
+    },
+    "FICSMAS Tree Branch": {
+      "building": "Constructor",
+      "name": "FICSMAS Tree Branch",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Tree Branch",
+          "quantity": 10
+        }
+      ]
+    },
+    "Hatcher Protein": {
+      "building": "Constructor",
+      "name": "Hatcher Protein",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Hatcher Remains",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 20
+        }
+      ]
+    },
+    "Hog Protein": {
+      "building": "Constructor",
+      "name": "Hog Protein",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Hog Remains",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 20
+        }
+      ]
+    },
+    "Iron Plate": {
+      "building": "Constructor",
+      "name": "Iron Plate",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 20
+        }
+      ]
+    },
+    "Iron Rod": {
+      "building": "Constructor",
+      "name": "Iron Rod",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Rod",
+          "quantity": 15
+        }
+      ]
+    },
+    "Iron Wire": {
+      "building": "Constructor",
+      "name": "Iron Wire",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 12.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Wire",
+          "quantity": 22.5
+        }
+      ]
+    },
+    "Alien DNA Capsules": {
+      "building": "Constructor",
+      "name": "Alien DNA Capsules",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alien DNA Capsules",
+          "quantity": 10
+        }
+      ]
+    },
+    "Power Shard (1)": {
+      "building": "Constructor",
+      "name": "Power Shard (1)",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Power Slug (Blue)",
+          "quantity": 7.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Power Shard",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Power Shard (2)": {
+      "building": "Constructor",
+      "name": "Power Shard (2)",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Power Slug (Yellow)",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Power Shard",
+          "quantity": 10
+        }
+      ]
+    },
+    "Power Shard (5)": {
+      "building": "Constructor",
+      "name": "Power Shard (5)",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Power Slug (Purple)",
+          "quantity": 2.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Power Shard",
+          "quantity": 12.5
+        }
+      ]
+    },
+    "Quartz Crystal": {
+      "building": "Constructor",
+      "name": "Quartz Crystal",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Raw Quartz",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 22.5
+        }
+      ]
+    },
+    "Quickwire": {
+      "building": "Constructor",
+      "name": "Quickwire",
+      "craftTime": 5,
+      "inputs": [
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 12
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Quickwire",
+          "quantity": 60
+        }
+      ]
+    },
+    "Screw": {
+      "building": "Constructor",
+      "name": "Screw",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Rod",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Screw",
+          "quantity": 40
+        }
+      ]
+    },
+    "Silica": {
+      "building": "Constructor",
+      "name": "Silica",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Raw Quartz",
+          "quantity": 22.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Silica",
+          "quantity": 37.5
+        }
+      ]
+    },
+    "Snowball": {
+      "building": "Constructor",
+      "name": "Snowball",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Actual Snow",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Snowball",
+          "quantity": 5
+        }
+      ]
+    },
+    "Solid Biofuel": {
+      "building": "Constructor",
+      "name": "Solid Biofuel",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Biomass",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Solid Biofuel",
+          "quantity": 60
+        }
+      ]
+    },
+    "Iron Rebar": {
+      "building": "Constructor",
+      "name": "Iron Rebar",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Iron Rod",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Rebar",
+          "quantity": 15
+        }
+      ]
+    },
+    "Spitter Protein": {
+      "building": "Constructor",
+      "name": "Spitter Protein",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Plasma Spitter Remains",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 20
+        }
+      ]
+    },
+    "Steel Beam": {
+      "building": "Constructor",
+      "name": "Steel Beam",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Beam",
+          "quantity": 15
+        }
+      ]
+    },
+    "Steel Canister": {
+      "building": "Constructor",
+      "name": "Steel Canister",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Empty Canister",
+          "quantity": 40
+        }
+      ]
+    },
+    "Steel Pipe": {
+      "building": "Constructor",
+      "name": "Steel Pipe",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Pipe",
+          "quantity": 20
+        }
+      ]
+    },
+    "Steel Rod": {
+      "building": "Constructor",
+      "name": "Steel Rod",
+      "craftTime": 5,
+      "inputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 12
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Rod",
+          "quantity": 48
+        }
+      ]
+    },
+    "Steel Screw": {
+      "building": "Constructor",
+      "name": "Steel Screw",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Steel Beam",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Screw",
+          "quantity": 260
+        }
+      ]
+    },
+    "Stinger Protein": {
+      "building": "Constructor",
+      "name": "Stinger Protein",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Stinger Remains",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alien Protein",
+          "quantity": 20
+        }
+      ]
+    },
+    "Wire": {
+      "building": "Constructor",
+      "name": "Wire",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Wire",
+          "quantity": 30
+        }
+      ]
+    },
+    "Adhered Iron Plate": {
+      "building": "Assembler",
+      "name": "Adhered Iron Plate",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 11.25
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 3.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "AI Limiter": {
+      "building": "Assembler",
+      "name": "AI Limiter",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 25
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 100
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "AI Limiter",
+          "quantity": 5
+        }
+      ]
+    },
+    "Alclad Aluminium Sheet": {
+      "building": "Assembler",
+      "name": "Alclad Aluminium Sheet",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 30
+        },
+        {
+          "resource": "Copper Ingot",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alclad Aluminium Sheet",
+          "quantity": 30
+        }
+      ]
+    },
+    "Alclad Casing": {
+      "building": "Assembler",
+      "name": "Alclad Casing",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 150
+        },
+        {
+          "resource": "Copper Ingot",
+          "quantity": 75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 112.5
+        }
+      ]
+    },
+    "Assembly Director System": {
+      "building": "Assembler",
+      "name": "Assembly Director System",
+      "craftTime": 80,
+      "inputs": [
+        {
+          "resource": "Adaptive Control Unit",
+          "quantity": 1.5
+        },
+        {
+          "resource": "Supercomputer",
+          "quantity": 0.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Assembly Director System",
+          "quantity": 0.75
+        }
+      ]
+    },
+    "Automated Wiring": {
+      "building": "Assembler",
+      "name": "Automated Wiring",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Stator",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Cable",
+          "quantity": 50
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Automated Wiring",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Black Powder": {
+      "building": "Assembler",
+      "name": "Black Powder",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Coal",
+          "quantity": 15
+        },
+        {
+          "resource": "Sulfur",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Black Powder",
+          "quantity": 30
+        }
+      ]
+    },
+    "Bolted Frame": {
+      "building": "Assembler",
+      "name": "Bolted Frame",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Screw",
+          "quantity": 140
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 5
+        }
+      ]
+    },
+    "Bolted Iron Plate": {
+      "building": "Assembler",
+      "name": "Bolted Iron Plate",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 90
+        },
+        {
+          "resource": "Screw",
+          "quantity": 250
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 15
+        }
+      ]
+    },
+    "Caterium Circuit Board": {
+      "building": "Assembler",
+      "name": "Caterium Circuit Board",
+      "craftTime": 48,
+      "inputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 12.5
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 8.75
+        }
+      ]
+    },
+    "Cheap Silica": {
+      "building": "Assembler",
+      "name": "Cheap Silica",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Raw Quartz",
+          "quantity": 11.25
+        },
+        {
+          "resource": "Limestone",
+          "quantity": 18.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Silica",
+          "quantity": 26.25
+        }
+      ]
+    },
+    "Circuit Board": {
+      "building": "Assembler",
+      "name": "Circuit Board",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 15
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Cluster Nobelisk": {
+      "building": "Assembler",
+      "name": "Cluster Nobelisk",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Smokeless Powder",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cluster Nobelisk",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Coated Iron Canister": {
+      "building": "Assembler",
+      "name": "Coated Iron Canister",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 30
+        },
+        {
+          "resource": "Copper Sheet",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Coated Iron Plate": {
+      "building": "Assembler",
+      "name": "Coated Iron Plate",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 50
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 75
+        }
+      ]
+    },
+    "Compacted Coal": {
+      "building": "Assembler",
+      "name": "Compacted Coal",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Coal",
+          "quantity": 25
+        },
+        {
+          "resource": "Sulfur",
+          "quantity": 25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Compacted Coal",
+          "quantity": 25
+        }
+      ]
+    },
+    "Copper Rotor": {
+      "building": "Assembler",
+      "name": "Copper Rotor",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Screw",
+          "quantity": 195
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rotor",
+          "quantity": 11.25
+        }
+      ]
+    },
+    "Crystal Computer": {
+      "building": "Assembler",
+      "name": "Crystal Computer",
+      "craftTime": 64,
+      "inputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 2.8125
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Computer",
+          "quantity": 2.8125
+        }
+      ]
+    },
+    "Electric Motor": {
+      "building": "Assembler",
+      "name": "Electric Motor",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Rotor",
+          "quantity": 7.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Motor",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Electrode Circuit Board": {
+      "building": "Assembler",
+      "name": "Electrode Circuit Board",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Rubber",
+          "quantity": 30
+        },
+        {
+          "resource": "Petroleum Coke",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 5
+        }
+      ]
+    },
+    "Electromagnetic Connection Rod": {
+      "building": "Assembler",
+      "name": "Electromagnetic Connection Rod",
+      "craftTime": 15,
+      "inputs": [
+        {
+          "resource": "Stator",
+          "quantity": 8
+        },
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 4
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 8
+        }
+      ]
+    },
+    "Electromagnetic Control Rod": {
+      "building": "Assembler",
+      "name": "Electromagnetic Control Rod",
+      "craftTime": 30,
+      "inputs": [
+        {
+          "resource": "Stator",
+          "quantity": 6
+        },
+        {
+          "resource": "AI Limiter",
+          "quantity": 4
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 4
+        }
+      ]
+    },
+    "Encased Industrial Beam": {
+      "building": "Assembler",
+      "name": "Encased Industrial Beam",
+      "craftTime": 10,
+      "inputs": [
+        {
+          "resource": "Steel Beam",
+          "quantity": 24
+        },
+        {
+          "resource": "Concrete",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 6
+        }
+      ]
+    },
+    "Encased Industrial Pipe": {
+      "building": "Assembler",
+      "name": "Encased Industrial Pipe",
+      "craftTime": 15,
+      "inputs": [
+        {
+          "resource": "Steel Pipe",
+          "quantity": 28
+        },
+        {
+          "resource": "Concrete",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 4
+        }
+      ]
+    },
+    "Encased Plutonium Cell": {
+      "building": "Assembler",
+      "name": "Encased Plutonium Cell",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Plutonium Pellet",
+          "quantity": 10
+        },
+        {
+          "resource": "Concrete",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Plutonium Cell",
+          "quantity": 5
+        }
+      ]
+    },
+    "Fabric": {
+      "building": "Assembler",
+      "name": "Fabric",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Mycelia",
+          "quantity": 15
+        },
+        {
+          "resource": "Biomass",
+          "quantity": 75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fabric",
+          "quantity": 15
+        }
+      ]
+    },
+    "Fancy Fireworks": {
+      "building": "Assembler",
+      "name": "Fancy Fireworks",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "FICSMAS Tree Branch",
+          "quantity": 10
+        },
+        {
+          "resource": "FICSMAS Bow",
+          "quantity": 7.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fancy Fireworks",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "FICSMAS Decoration": {
+      "building": "Assembler",
+      "name": "FICSMAS Decoration",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "FICSMAS Tree Branch",
+          "quantity": 15
+        },
+        {
+          "resource": "FICSMAS Ornament Bundle",
+          "quantity": 6
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Decoration",
+          "quantity": 2
+        }
+      ]
+    },
+    "FICSMAS Ornament Bundle": {
+      "building": "Assembler",
+      "name": "FICSMAS Ornament Bundle",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Ornament (Copper)",
+          "quantity": 5
+        },
+        {
+          "resource": "FICSMAS Ornament (Iron)",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Ornament Bundle",
+          "quantity": 5
+        }
+      ]
+    },
+    "FICSMAS Wonder Star": {
+      "building": "Assembler",
+      "name": "FICSMAS Wonder Star",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "FICSMAS Decoration",
+          "quantity": 5
+        },
+        {
+          "resource": "Candy Cane",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Wonder Star",
+          "quantity": 1
+        }
+      ]
+    },
+    "Fine Black Powder": {
+      "building": "Assembler",
+      "name": "Fine Black Powder",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Sulfur",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Compacted Coal",
+          "quantity": 3.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Black Powder",
+          "quantity": 15
+        }
+      ]
+    },
+    "Fine Concrete": {
+      "building": "Assembler",
+      "name": "Fine Concrete",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Silica",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Limestone",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Concrete",
+          "quantity": 25
+        }
+      ]
+    },
+    "Fused Quickwire": {
+      "building": "Assembler",
+      "name": "Fused Quickwire",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Copper Ingot",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Quickwire",
+          "quantity": 90
+        }
+      ]
+    },
+    "Fused Wire": {
+      "building": "Assembler",
+      "name": "Fused Wire",
+      "craftTime": 20,
+      "inputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 12
+        },
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 3
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Wire",
+          "quantity": 90
+        }
+      ]
+    },
+    "Gas Nobelisk": {
+      "building": "Assembler",
+      "name": "Gas Nobelisk",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 5
+        },
+        {
+          "resource": "Biomass",
+          "quantity": 50
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Gas Nobelisk",
+          "quantity": 5
+        }
+      ]
+    },
+    "Heat Exchanger": {
+      "building": "Assembler",
+      "name": "Heat Exchanger",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 30
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heat Sink",
+          "quantity": 10
+        }
+      ]
+    },
+    "Heat Sink": {
+      "building": "Assembler",
+      "name": "Heat Sink",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Alclad Aluminium Sheet",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Copper Sheet",
+          "quantity": 22.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heat Sink",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Homing Rifle Ammo": {
+      "building": "Assembler",
+      "name": "Homing Rifle Ammo",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Rifle Ammo",
+          "quantity": 50
+        },
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 2.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Homing Rifle Ammo",
+          "quantity": 25
+        }
+      ]
+    },
+    "Insulated Cable": {
+      "building": "Assembler",
+      "name": "Insulated Cable",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Wire",
+          "quantity": 45
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cable",
+          "quantity": 100
+        }
+      ]
+    },
+    "Modular Frame": {
+      "building": "Assembler",
+      "name": "Modular Frame",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 3
+        },
+        {
+          "resource": "Iron Rod",
+          "quantity": 12
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 2
+        }
+      ]
+    },
+    "Motor": {
+      "building": "Assembler",
+      "name": "Motor",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Rotor",
+          "quantity": 10
+        },
+        {
+          "resource": "Stator",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Motor",
+          "quantity": 5
+        }
+      ]
+    },
+    "Nobelisk": {
+      "building": "Assembler",
+      "name": "Nobelisk",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Black Powder",
+          "quantity": 20
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 10
+        }
+      ]
+    },
+    "OC Supercomputer": {
+      "building": "Assembler",
+      "name": "OC Supercomputer",
+      "craftTime": 20,
+      "inputs": [
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 9
+        },
+        {
+          "resource": "Cooling System",
+          "quantity": 9
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Supercomputer",
+          "quantity": 3
+        }
+      ]
+    },
+    "Plutonium Fuel Unit": {
+      "building": "Assembler",
+      "name": "Plutonium Fuel Unit",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Encased Plutonium Cell",
+          "quantity": 10
+        },
+        {
+          "resource": "Pressure Conversion Cube",
+          "quantity": 0.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plutonium Fuel Rod",
+          "quantity": 0.5
+        }
+      ]
+    },
+    "Pressure Conversion Cube": {
+      "building": "Assembler",
+      "name": "Pressure Conversion Cube",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Fused Modular Frame",
+          "quantity": 1
+        },
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Pressure Conversion Cube",
+          "quantity": 1
+        }
+      ]
+    },
+    "Pulse Nobelisk": {
+      "building": "Assembler",
+      "name": "Pulse Nobelisk",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 5
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Pulse Nobelisk",
+          "quantity": 5
+        }
+      ]
+    },
+    "Quickwire Cable": {
+      "building": "Assembler",
+      "name": "Quickwire Cable",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Quickwire",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cable",
+          "quantity": 27.5
+        }
+      ]
+    },
+    "Quickwire Stator": {
+      "building": "Assembler",
+      "name": "Quickwire Stator",
+      "craftTime": 15,
+      "inputs": [
+        {
+          "resource": "Steel Pipe",
+          "quantity": 16
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Stator",
+          "quantity": 8
+        }
+      ]
+    },
+    "Reinforced Iron Plate": {
+      "building": "Assembler",
+      "name": "Reinforced Iron Plate",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 30
+        },
+        {
+          "resource": "Screw",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 5
+        }
+      ]
+    },
+    "Rifle Ammo": {
+      "building": "Assembler",
+      "name": "Rifle Ammo",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 15
+        },
+        {
+          "resource": "Smokeless Powder",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rifle Ammo",
+          "quantity": 75
+        }
+      ]
+    },
+    "Rotor": {
+      "building": "Assembler",
+      "name": "Rotor",
+      "craftTime": 15,
+      "inputs": [
+        {
+          "resource": "Iron Rod",
+          "quantity": 20
+        },
+        {
+          "resource": "Screw",
+          "quantity": 100
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rotor",
+          "quantity": 4
+        }
+      ]
+    },
+    "Rubber Concrete": {
+      "building": "Assembler",
+      "name": "Rubber Concrete",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Limestone",
+          "quantity": 50
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Concrete",
+          "quantity": 45
+        }
+      ]
+    },
+    "Shatter Rebar": {
+      "building": "Assembler",
+      "name": "Shatter Rebar",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Rebar",
+          "quantity": 20
+        },
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Shatter Rebar",
+          "quantity": 10
+        }
+      ]
+    },
+    "Silicon Circuit Board": {
+      "building": "Assembler",
+      "name": "Silicon Circuit Board",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 27.5
+        },
+        {
+          "resource": "Silica",
+          "quantity": 27.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 12.5
+        }
+      ]
+    },
+    "Smart Plating": {
+      "building": "Assembler",
+      "name": "Smart Plating",
+      "craftTime": 30,
+      "inputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 2
+        },
+        {
+          "resource": "Rotor",
+          "quantity": 2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Smart Plating",
+          "quantity": 2
+        }
+      ]
+    },
+    "Sparkly Fireworks": {
+      "building": "Assembler",
+      "name": "Sparkly Fireworks",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "FICSMAS Tree Branch",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Actual Snow",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Sparkly Fireworks",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Stator": {
+      "building": "Assembler",
+      "name": "Stator",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Steel Pipe",
+          "quantity": 15
+        },
+        {
+          "resource": "Wire",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Stator",
+          "quantity": 5
+        }
+      ]
+    },
+    "Steel Coated Plate": {
+      "building": "Assembler",
+      "name": "Steel Coated Plate",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 45
+        }
+      ]
+    },
+    "Steel Rotor": {
+      "building": "Assembler",
+      "name": "Steel Rotor",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Steel Pipe",
+          "quantity": 10
+        },
+        {
+          "resource": "Wire",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rotor",
+          "quantity": 5
+        }
+      ]
+    },
+    "Steeled Frame": {
+      "building": "Assembler",
+      "name": "Steeled Frame",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 2
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 3
+        }
+      ]
+    },
+    "Stitched Iron Plate": {
+      "building": "Assembler",
+      "name": "Stitched Iron Plate",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 18.75
+        },
+        {
+          "resource": "Wire",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 5.625
+        }
+      ]
+    },
+    "Stun Rebar": {
+      "building": "Assembler",
+      "name": "Stun Rebar",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Rebar",
+          "quantity": 10
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 50
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Stun Rebar",
+          "quantity": 10
+        }
+      ]
+    },
+    "Sweet Fireworks": {
+      "building": "Assembler",
+      "name": "Sweet Fireworks",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "FICSMAS Tree Branch",
+          "quantity": 15
+        },
+        {
+          "resource": "Candy Cane",
+          "quantity": 7.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Sweet Fireworks",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Versatile Framework": {
+      "building": "Assembler",
+      "name": "Versatile Framework",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Steel Beam",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Versatile Framework",
+          "quantity": 5
+        }
+      ]
+    },
+    "Adaptive Control Unit": {
+      "building": "Manufacturer",
+      "name": "Adaptive Control Unit",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Automated Wiring",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Circuit Board",
+          "quantity": 5
+        },
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 1
+        },
+        {
+          "resource": "Computer",
+          "quantity": 1
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Adaptive Control Unit",
+          "quantity": 1
+        }
+      ]
+    },
+    "Automated Miner": {
+      "building": "Manufacturer",
+      "name": "Automated Miner",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Motor",
+          "quantity": 1
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 4
+        },
+        {
+          "resource": "Iron Rod",
+          "quantity": 4
+        },
+        {
+          "resource": "Iron Plate",
+          "quantity": 2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Portable Miner",
+          "quantity": 1
+        }
+      ]
+    },
+    "Automated Speed Wiring": {
+      "building": "Manufacturer",
+      "name": "Automated Speed Wiring",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Stator",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Wire",
+          "quantity": 75
+        },
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 1.875
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Automated Wiring",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Beacon": {
+      "building": "Manufacturer",
+      "name": "Beacon",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Iron Plate",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Iron Rod",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Wire",
+          "quantity": 112.5
+        },
+        {
+          "resource": "Cable",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Beacon",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Caterium Computer": {
+      "building": "Manufacturer",
+      "name": "Caterium Computer",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 26.25
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 105
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Computer",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Classic Battery": {
+      "building": "Manufacturer",
+      "name": "Classic Battery",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Sulfur",
+          "quantity": 45
+        },
+        {
+          "resource": "Alclad Aluminium Sheet",
+          "quantity": 52.5
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 60
+        },
+        {
+          "resource": "Wire",
+          "quantity": 90
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Battery",
+          "quantity": 30
+        }
+      ]
+    },
+    "Computer": {
+      "building": "Manufacturer",
+      "name": "Computer",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Circuit Board",
+          "quantity": 25
+        },
+        {
+          "resource": "Cable",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 45
+        },
+        {
+          "resource": "Screw",
+          "quantity": 130
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Computer",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Crystal Beacon": {
+      "building": "Manufacturer",
+      "name": "Crystal Beacon",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Steel Beam",
+          "quantity": 2
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 8
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 0.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Beacon",
+          "quantity": 10
+        }
+      ]
+    },
+    "Crystal Oscillator": {
+      "building": "Manufacturer",
+      "name": "Crystal Oscillator",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 18
+        },
+        {
+          "resource": "Cable",
+          "quantity": 14
+        },
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 2.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1
+        }
+      ]
+    },
+    "Explosive Rebar": {
+      "building": "Manufacturer",
+      "name": "Explosive Rebar",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Rebar",
+          "quantity": 20
+        },
+        {
+          "resource": "Smokeless Powder",
+          "quantity": 20
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Explosive Rebar",
+          "quantity": 10
+        }
+      ]
+    },
+    "Flexible Framework": {
+      "building": "Manufacturer",
+      "name": "Flexible Framework",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Steel Beam",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Versatile Framework",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Gas Filter": {
+      "building": "Manufacturer",
+      "name": "Gas Filter",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Coal",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 15
+        },
+        {
+          "resource": "Fabric",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Gas Filter",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Heavy Encased Frame": {
+      "building": "Manufacturer",
+      "name": "Heavy Encased Frame",
+      "craftTime": 64,
+      "inputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 9.375
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 33.75
+        },
+        {
+          "resource": "Concrete",
+          "quantity": 20.625
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 2.8125
+        }
+      ]
+    },
+    "Heavy Flexible Frame": {
+      "building": "Manufacturer",
+      "name": "Heavy Flexible Frame",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 18.75
+        },
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 11.25
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 75
+        },
+        {
+          "resource": "Screw",
+          "quantity": 390
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Heavy Modular Frame": {
+      "building": "Manufacturer",
+      "name": "Heavy Modular Frame",
+      "craftTime": 30,
+      "inputs": [
+        {
+          "resource": "Modular Frame",
+          "quantity": 10
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 30
+        },
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 10
+        },
+        {
+          "resource": "Screw",
+          "quantity": 200
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 2
+        }
+      ]
+    },
+    "High-Speed Connector": {
+      "building": "Manufacturer",
+      "name": "High-Speed Connector",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Quickwire",
+          "quantity": 210
+        },
+        {
+          "resource": "Cable",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Circuit Board",
+          "quantity": 3.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Infused Uranium Cell": {
+      "building": "Manufacturer",
+      "name": "Infused Uranium Cell",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Uranium",
+          "quantity": 25
+        },
+        {
+          "resource": "Silica",
+          "quantity": 15
+        },
+        {
+          "resource": "Sulfur",
+          "quantity": 25
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Uranium Cell",
+          "quantity": 20
+        }
+      ]
+    },
+    "Insulated Crystal Oscillator": {
+      "building": "Manufacturer",
+      "name": "Insulated Crystal Oscillator",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 18.75
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 13.125
+        },
+        {
+          "resource": "AI Limiter",
+          "quantity": 1.875
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1.875
+        }
+      ]
+    },
+    "Iodine Infused Filter": {
+      "building": "Manufacturer",
+      "name": "Iodine Infused Filter",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Gas Filter",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Quickwire",
+          "quantity": 30
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 3.75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iodine Infused Filter",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Magnetic Field Generator": {
+      "building": "Manufacturer",
+      "name": "Magnetic Field Generator",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Versatile Framework",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 1
+        },
+        {
+          "resource": "Battery",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Magnetic Field Generator",
+          "quantity": 1
+        }
+      ]
+    },
+    "Modular Engine": {
+      "building": "Manufacturer",
+      "name": "Modular Engine",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Motor",
+          "quantity": 2
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 15
+        },
+        {
+          "resource": "Smart Plating",
+          "quantity": 2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Modular Engine",
+          "quantity": 1
+        }
+      ]
+    },
+    "Nuke Nobelisk": {
+      "building": "Manufacturer",
+      "name": "Nuke Nobelisk",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Encased Uranium Cell",
+          "quantity": 10
+        },
+        {
+          "resource": "Smokeless Powder",
+          "quantity": 5
+        },
+        {
+          "resource": "AI Limiter",
+          "quantity": 3
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nuke Nobelisk",
+          "quantity": 0.5
+        }
+      ]
+    },
+    "Plastic Smart Plating": {
+      "building": "Manufacturer",
+      "name": "Plastic Smart Plating",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Reinforced Iron Plate",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Rotor",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 7.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Smart Plating",
+          "quantity": 5
+        }
+      ]
+    },
+    "Plutonium Fuel Rod": {
+      "building": "Manufacturer",
+      "name": "Plutonium Fuel Rod",
+      "craftTime": 240,
+      "inputs": [
+        {
+          "resource": "Encased Plutonium Cell",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Steel Beam",
+          "quantity": 4.5
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 1.5
+        },
+        {
+          "resource": "Heat Sink",
+          "quantity": 2.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plutonium Fuel Rod",
+          "quantity": 0.25
+        }
+      ]
+    },
+    "Radio Connection Unit": {
+      "building": "Manufacturer",
+      "name": "Radio Connection Unit",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Heat Sink",
+          "quantity": 15
+        },
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Radio Control System": {
+      "building": "Manufacturer",
+      "name": "Radio Control System",
+      "craftTime": 40,
+      "inputs": [
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1.5
+        },
+        {
+          "resource": "Circuit Board",
+          "quantity": 15
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 90
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 4.5
+        }
+      ]
+    },
+    "Radio Control Unit": {
+      "building": "Manufacturer",
+      "name": "Radio Control Unit",
+      "craftTime": 48,
+      "inputs": [
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 40
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1.25
+        },
+        {
+          "resource": "Computer",
+          "quantity": 1.25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 2.5
+        }
+      ]
+    },
+    "Rigour Motor": {
+      "building": "Manufacturer",
+      "name": "Rigour Motor",
+      "craftTime": 48,
+      "inputs": [
+        {
+          "resource": "Rotor",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Stator",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1.25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Motor",
+          "quantity": 7.5
+        }
+      ]
+    },
+    "Seismic Nobelisk": {
+      "building": "Manufacturer",
+      "name": "Seismic Nobelisk",
+      "craftTime": 40,
+      "inputs": [
+        {
+          "resource": "Black Powder",
+          "quantity": 12
+        },
+        {
+          "resource": "Steel Pipe",
+          "quantity": 12
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 1.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nobelisk",
+          "quantity": 6
+        }
+      ]
+    },
+    "Silicon High-Speed Connector": {
+      "building": "Manufacturer",
+      "name": "Silicon High-Speed Connector",
+      "craftTime": 40,
+      "inputs": [
+        {
+          "resource": "Quickwire",
+          "quantity": 90
+        },
+        {
+          "resource": "Silica",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Circuit Board",
+          "quantity": 3
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 3
+        }
+      ]
+    },
+    "Super-State Computer": {
+      "building": "Manufacturer",
+      "name": "Super-State Computer",
+      "craftTime": 50,
+      "inputs": [
+        {
+          "resource": "Computer",
+          "quantity": 3.6
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 2.4
+        },
+        {
+          "resource": "Battery",
+          "quantity": 24
+        },
+        {
+          "resource": "Wire",
+          "quantity": 54
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Supercomputer",
+          "quantity": 2.4
+        }
+      ]
+    },
+    "Supercomputer": {
+      "building": "Manufacturer",
+      "name": "Supercomputer",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Computer",
+          "quantity": 3.75
+        },
+        {
+          "resource": "AI Limiter",
+          "quantity": 3.75
+        },
+        {
+          "resource": "High-Speed Connector",
+          "quantity": 5.625
+        },
+        {
+          "resource": "Plastic",
+          "quantity": 52.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Supercomputer",
+          "quantity": 1.875
+        }
+      ]
+    },
+    "Thermal Propulsion Rocket": {
+      "building": "Manufacturer",
+      "name": "Thermal Propulsion Rocket",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Modular Engine",
+          "quantity": 2.5
+        },
+        {
+          "resource": "Turbo Motor",
+          "quantity": 1
+        },
+        {
+          "resource": "Cooling System",
+          "quantity": 3
+        },
+        {
+          "resource": "Fused Modular Frame",
+          "quantity": 1
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Thermal Propulsion Rocket",
+          "quantity": 1
+        }
+      ]
+    },
+    "Turbo Electric Motor": {
+      "building": "Manufacturer",
+      "name": "Turbo Electric Motor",
+      "craftTime": 64,
+      "inputs": [
+        {
+          "resource": "Motor",
+          "quantity": 6.5625
+        },
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 8.4375
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 4.6875
+        },
+        {
+          "resource": "Rotor",
+          "quantity": 6.5625
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbo Motor",
+          "quantity": 2.8125
+        }
+      ]
+    },
+    "Turbo Motor": {
+      "building": "Manufacturer",
+      "name": "Turbo Motor",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Cooling System",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Radio Control Unit",
+          "quantity": 3.75
+        },
+        {
+          "resource": "Motor",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbo Motor",
+          "quantity": 1.875
+        }
+      ]
+    },
+    "Turbo Pressure Motor": {
+      "building": "Manufacturer",
+      "name": "Turbo Pressure Motor",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Motor",
+          "quantity": 7.5
+        },
+        {
+          "resource": "Pressure Conversion Cube",
+          "quantity": 1.875
+        },
+        {
+          "resource": "Nitrogen Gas (Packaged)",
+          "quantity": 45
+        },
+        {
+          "resource": "Stator",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbo Motor",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Turbo Rifle Ammo": {
+      "building": "Blender",
+      "name": "Turbo Rifle Ammo",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Rifle Ammo",
+          "quantity": 125
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 15
+        },
+        {
+          "resource": "Turbofuel",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbo Rifle Ammo",
+          "quantity": 250
+        }
+      ]
+    },
+    "Uranium Fuel Rod": {
+      "building": "Manufacturer",
+      "name": "Uranium Fuel Rod",
+      "craftTime": 150,
+      "inputs": [
+        {
+          "resource": "Encased Uranium Cell",
+          "quantity": 20
+        },
+        {
+          "resource": "Encased Industrial Beam",
+          "quantity": 1.2
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Uranium Fuel Rod",
+          "quantity": 0.4
+        }
+      ]
+    },
+    "Uranium Fuel Unit": {
+      "building": "Manufacturer",
+      "name": "Uranium Fuel Unit",
+      "craftTime": 300,
+      "inputs": [
+        {
+          "resource": "Encased Uranium Cell",
+          "quantity": 20
+        },
+        {
+          "resource": "Electromagnetic Control Rod",
+          "quantity": 2
+        },
+        {
+          "resource": "Crystal Oscillator",
+          "quantity": 0.6
+        },
+        {
+          "resource": "Beacon",
+          "quantity": 1.2
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Uranium Fuel Rod",
+          "quantity": 0.6
+        }
+      ]
+    },
+    "Packaged Alumina Solution": {
+      "building": "Packager",
+      "name": "Packaged Alumina Solution",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 120
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alumina Solution (Packaged)",
+          "quantity": 120
+        }
+      ]
+    },
+    "Packaged Fuel": {
+      "building": "Packager",
+      "name": "Packaged Fuel",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 40
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel (Packaged)",
+          "quantity": 40
+        }
+      ]
+    },
+    "Packaged Heavy Oil Residue": {
+      "building": "Packager",
+      "name": "Packaged Heavy Oil Residue",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 30
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Oil Residue (Packaged)",
+          "quantity": 30
+        }
+      ]
+    },
+    "Packaged Liquid Biofuel": {
+      "building": "Packager",
+      "name": "Packaged Liquid Biofuel",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Liquid Biofuel",
+          "quantity": 40
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Liquid Biofuel (Packaged)",
+          "quantity": 40
+        }
+      ]
+    },
+    "Packaged Nitric Acid": {
+      "building": "Packager",
+      "name": "Packaged Nitric Acid",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Nitric Acid",
+          "quantity": 30
+        },
+        {
+          "resource": "Empty Fluid Tank",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nitric Acid (Packaged)",
+          "quantity": 30
+        }
+      ]
+    },
+    "Packaged Nitrogen Gas": {
+      "building": "Packager",
+      "name": "Packaged Nitrogen Gas",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 240
+        },
+        {
+          "resource": "Empty Fluid Tank",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nitrogen Gas (Packaged)",
+          "quantity": 60
+        }
+      ]
+    },
+    "Packaged Oil": {
+      "building": "Packager",
+      "name": "Packaged Oil",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 30
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Crude Oil (Packaged)",
+          "quantity": 30
+        }
+      ]
+    },
+    "Packaged Sulfuric Acid": {
+      "building": "Packager",
+      "name": "Packaged Sulfuric Acid",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 40
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Sulfuric Acid (Packaged)",
+          "quantity": 40
+        }
+      ]
+    },
+    "Packaged Turbofuel": {
+      "building": "Packager",
+      "name": "Packaged Turbofuel",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Turbofuel",
+          "quantity": 20
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbofuel (Packaged)",
+          "quantity": 20
+        }
+      ]
+    },
+    "Packaged Water": {
+      "building": "Packager",
+      "name": "Packaged Water",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Water",
+          "quantity": 60
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Water (Packaged)",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Alumina Solution": {
+      "building": "Packager",
+      "name": "Unpackage Alumina Solution",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Alumina Solution (Packaged)",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 120
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 120
+        }
+      ]
+    },
+    "Unpackage Fuel": {
+      "building": "Packager",
+      "name": "Unpackage Fuel",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Fuel (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 60
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Heavy Oil Residue": {
+      "building": "Packager",
+      "name": "Unpackage Heavy Oil Residue",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue (Packaged)",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 20
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 20
+        }
+      ]
+    },
+    "Unpackage Liquid Biofuel": {
+      "building": "Packager",
+      "name": "Unpackage Liquid Biofuel",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Liquid Biofuel (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Liquid Biofuel",
+          "quantity": 60
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Nitric Acid": {
+      "building": "Packager",
+      "name": "Unpackage Nitric Acid",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Nitric Acid (Packaged)",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nitric Acid",
+          "quantity": 20
+        },
+        {
+          "resource": "Empty Fluid Tank",
+          "quantity": 20
+        }
+      ]
+    },
+    "Unpackage Nitrogen Gas": {
+      "building": "Packager",
+      "name": "Unpackage Nitrogen Gas",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Nitrogen Gas (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 240
+        },
+        {
+          "resource": "Empty Fluid Tank",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Oil": {
+      "building": "Packager",
+      "name": "Unpackage Oil",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Crude Oil (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 60
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Sulfuric Acid": {
+      "building": "Packager",
+      "name": "Unpackage Sulfuric Acid",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Sulfuric Acid (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 60
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 60
+        }
+      ]
+    },
+    "Unpackage Turbofuel": {
+      "building": "Packager",
+      "name": "Unpackage Turbofuel",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Turbofuel (Packaged)",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbofuel",
+          "quantity": 20
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 20
+        }
+      ]
+    },
+    "Unpackage Water": {
+      "building": "Packager",
+      "name": "Unpackage Water",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Water (Packaged)",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Water",
+          "quantity": 120
+        },
+        {
+          "resource": "Empty Canister",
+          "quantity": 120
+        }
+      ]
+    },
+    "Alumina Solution": {
+      "building": "Refinery",
+      "name": "Alumina Solution",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Bauxite",
+          "quantity": 120
+        },
+        {
+          "resource": "Water",
+          "quantity": 180
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 120
+        },
+        {
+          "resource": "Silica",
+          "quantity": 50
+        }
+      ]
+    },
+    "Aluminium Scrap": {
+      "building": "Refinery",
+      "name": "Aluminium Scrap",
+      "craftTime": 1,
+      "inputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 240
+        },
+        {
+          "resource": "Coal",
+          "quantity": 120
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Scrap",
+          "quantity": 360
+        },
+        {
+          "resource": "Water",
+          "quantity": 120
+        }
+      ]
+    },
+    "Coated Cable": {
+      "building": "Refinery",
+      "name": "Coated Cable",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Wire",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cable",
+          "quantity": 67.5
+        }
+      ]
+    },
+    "Diluted Packaged Fuel": {
+      "building": "Refinery",
+      "name": "Diluted Packaged Fuel",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 30
+        },
+        {
+          "resource": "Water (Packaged)",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel (Packaged)",
+          "quantity": 60
+        }
+      ]
+    },
+    "Electrode - Aluminium Scrap": {
+      "building": "Refinery",
+      "name": "Electrode - Aluminium Scrap",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 180
+        },
+        {
+          "resource": "Petroleum Coke",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Scrap",
+          "quantity": 300
+        },
+        {
+          "resource": "Water",
+          "quantity": 105
+        }
+      ]
+    },
+    "Fuel": {
+      "building": "Refinery",
+      "name": "Fuel",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 40
+        },
+        {
+          "resource": "Polymer Resin",
+          "quantity": 30
+        }
+      ]
+    },
+    "Heavy Oil Residue": {
+      "building": "Refinery",
+      "name": "Heavy Oil Residue",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 40
+        },
+        {
+          "resource": "Polymer Resin",
+          "quantity": 20
+        }
+      ]
+    },
+    "Liquid Biofuel": {
+      "building": "Refinery",
+      "name": "Liquid Biofuel",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Solid Biofuel",
+          "quantity": 90
+        },
+        {
+          "resource": "Water",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Liquid Biofuel",
+          "quantity": 60
+        }
+      ]
+    },
+    "Petroleum Coke": {
+      "building": "Refinery",
+      "name": "Petroleum Coke",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Petroleum Coke",
+          "quantity": 120
+        }
+      ]
+    },
+    "Plastic": {
+      "building": "Refinery",
+      "name": "Plastic",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 20
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 10
+        }
+      ]
+    },
+    "Polyester Fabric": {
+      "building": "Refinery",
+      "name": "Polyester Fabric",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Polymer Resin",
+          "quantity": 30
+        },
+        {
+          "resource": "Water",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fabric",
+          "quantity": 30
+        }
+      ]
+    },
+    "Polymer Resin": {
+      "building": "Refinery",
+      "name": "Polymer Resin",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Polymer Resin",
+          "quantity": 130
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 20
+        }
+      ]
+    },
+    "Pure Caterium Ingot": {
+      "building": "Refinery",
+      "name": "Pure Caterium Ingot",
+      "craftTime": 5,
+      "inputs": [
+        {
+          "resource": "Caterium Ore",
+          "quantity": 24
+        },
+        {
+          "resource": "Water",
+          "quantity": 24
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 12
+        }
+      ]
+    },
+    "Pure Copper Ingot": {
+      "building": "Refinery",
+      "name": "Pure Copper Ingot",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Copper Ore",
+          "quantity": 15
+        },
+        {
+          "resource": "Water",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 37.5
+        }
+      ]
+    },
+    "Pure Iron Ingot": {
+      "building": "Refinery",
+      "name": "Pure Iron Ingot",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 35
+        },
+        {
+          "resource": "Water",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 65
+        }
+      ]
+    },
+    "Pure Quartz Crystal": {
+      "building": "Refinery",
+      "name": "Pure Quartz Crystal",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Raw Quartz",
+          "quantity": 67.5
+        },
+        {
+          "resource": "Water",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Quartz Crystal",
+          "quantity": 52.5
+        }
+      ]
+    },
+    "Recycled Plastic": {
+      "building": "Refinery",
+      "name": "Recycled Plastic",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Rubber",
+          "quantity": 30
+        },
+        {
+          "resource": "Fuel",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 60
+        }
+      ]
+    },
+    "Recycled Rubber": {
+      "building": "Refinery",
+      "name": "Recycled Rubber",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 30
+        },
+        {
+          "resource": "Fuel",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rubber",
+          "quantity": 60
+        }
+      ]
+    },
+    "Residual Fuel": {
+      "building": "Refinery",
+      "name": "Residual Fuel",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 40
+        }
+      ]
+    },
+    "Residual Plastic": {
+      "building": "Refinery",
+      "name": "Residual Plastic",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Polymer Resin",
+          "quantity": 60
+        },
+        {
+          "resource": "Water",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plastic",
+          "quantity": 20
+        }
+      ]
+    },
+    "Residual Rubber": {
+      "building": "Refinery",
+      "name": "Residual Rubber",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Polymer Resin",
+          "quantity": 40
+        },
+        {
+          "resource": "Water",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rubber",
+          "quantity": 20
+        }
+      ]
+    },
+    "Rubber": {
+      "building": "Refinery",
+      "name": "Rubber",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Crude Oil",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Rubber",
+          "quantity": 20
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 20
+        }
+      ]
+    },
+    "Sloppy Alumina": {
+      "building": "Refinery",
+      "name": "Sloppy Alumina",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Bauxite",
+          "quantity": 200
+        },
+        {
+          "resource": "Water",
+          "quantity": 200
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Alumina Solution",
+          "quantity": 240
+        }
+      ]
+    },
+    "Smokeless Powder": {
+      "building": "Refinery",
+      "name": "Smokeless Powder",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Black Powder",
+          "quantity": 20
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Smokeless Powder",
+          "quantity": 20
+        }
+      ]
+    },
+    "Steamed Copper Sheet": {
+      "building": "Refinery",
+      "name": "Steamed Copper Sheet",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Water",
+          "quantity": 22.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Sheet",
+          "quantity": 22.5
+        }
+      ]
+    },
+    "Sulfuric Acid": {
+      "building": "Refinery",
+      "name": "Sulfuric Acid",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Sulfur",
+          "quantity": 50
+        },
+        {
+          "resource": "Water",
+          "quantity": 50
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 50
+        }
+      ]
+    },
+    "Turbo Heavy Fuel": {
+      "building": "Refinery",
+      "name": "Turbo Heavy Fuel",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Compacted Coal",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbofuel",
+          "quantity": 30
+        }
+      ]
+    },
+    "Turbofuel": {
+      "building": "Refinery",
+      "name": "Turbofuel",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Compacted Coal",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbofuel",
+          "quantity": 18.75
+        }
+      ]
+    },
+    "Wet Concrete": {
+      "building": "Refinery",
+      "name": "Wet Concrete",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Limestone",
+          "quantity": 120
+        },
+        {
+          "resource": "Water",
+          "quantity": 100
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Concrete",
+          "quantity": 80
+        }
+      ]
+    },
+    "Battery": {
+      "building": "Blender",
+      "name": "Battery",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 50
+        },
+        {
+          "resource": "Alumina Solution",
+          "quantity": 40
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Battery",
+          "quantity": 20
+        },
+        {
+          "resource": "Water",
+          "quantity": 30
+        }
+      ]
+    },
+    "Cooling Device": {
+      "building": "Blender",
+      "name": "Cooling Device",
+      "craftTime": 32,
+      "inputs": [
+        {
+          "resource": "Heat Sink",
+          "quantity": 9.375
+        },
+        {
+          "resource": "Motor",
+          "quantity": 1.875
+        },
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cooling System",
+          "quantity": 3.75
+        }
+      ]
+    },
+    "Cooling System": {
+      "building": "Blender",
+      "name": "Cooling System",
+      "craftTime": 10,
+      "inputs": [
+        {
+          "resource": "Heat Sink",
+          "quantity": 12
+        },
+        {
+          "resource": "Rubber",
+          "quantity": 12
+        },
+        {
+          "resource": "Water",
+          "quantity": 30
+        },
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 150
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Cooling System",
+          "quantity": 6
+        }
+      ]
+    },
+    "Diluted Fuel": {
+      "building": "Blender",
+      "name": "Diluted Fuel",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 50
+        },
+        {
+          "resource": "Water",
+          "quantity": 100
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 100
+        }
+      ]
+    },
+    "Encased Uranium Cell": {
+      "building": "Blender",
+      "name": "Encased Uranium Cell",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Uranium",
+          "quantity": 50
+        },
+        {
+          "resource": "Concrete",
+          "quantity": 15
+        },
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Uranium Cell",
+          "quantity": 25
+        },
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 10
+        }
+      ]
+    },
+    "Fertile Uranium": {
+      "building": "Blender",
+      "name": "Fertile Uranium",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Uranium",
+          "quantity": 25
+        },
+        {
+          "resource": "Uranium Waste",
+          "quantity": 25
+        },
+        {
+          "resource": "Nitric Acid",
+          "quantity": 15
+        },
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Non-fissile Uranium",
+          "quantity": 100
+        },
+        {
+          "resource": "Water",
+          "quantity": 40
+        }
+      ]
+    },
+    "Fused Modular Frame": {
+      "building": "Blender",
+      "name": "Fused Modular Frame",
+      "craftTime": 40,
+      "inputs": [
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 1.5
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 75
+        },
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 37.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fused Modular Frame",
+          "quantity": 1.5
+        }
+      ]
+    },
+    "Heat-Fused Frame": {
+      "building": "Blender",
+      "name": "Heat-Fused Frame",
+      "craftTime": 20,
+      "inputs": [
+        {
+          "resource": "Heavy Modular Frame",
+          "quantity": 3
+        },
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 150
+        },
+        {
+          "resource": "Nitric Acid",
+          "quantity": 24
+        },
+        {
+          "resource": "Fuel",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Fused Modular Frame",
+          "quantity": 3
+        }
+      ]
+    },
+    "Instant Scrap": {
+      "building": "Blender",
+      "name": "Instant Scrap",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Bauxite",
+          "quantity": 150
+        },
+        {
+          "resource": "Coal",
+          "quantity": 100
+        },
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 50
+        },
+        {
+          "resource": "Water",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Scrap",
+          "quantity": 300
+        },
+        {
+          "resource": "Water",
+          "quantity": 50
+        }
+      ]
+    },
+    "Nitric Acid": {
+      "building": "Blender",
+      "name": "Nitric Acid",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Nitrogen Gas",
+          "quantity": 120
+        },
+        {
+          "resource": "Water",
+          "quantity": 30
+        },
+        {
+          "resource": "Iron Plate",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nitric Acid",
+          "quantity": 30
+        }
+      ]
+    },
+    "Non-fissile Uranium": {
+      "building": "Blender",
+      "name": "Non-fissile Uranium",
+      "craftTime": 24,
+      "inputs": [
+        {
+          "resource": "Uranium Waste",
+          "quantity": 37.5
+        },
+        {
+          "resource": "Silica",
+          "quantity": 25
+        },
+        {
+          "resource": "Nitric Acid",
+          "quantity": 15
+        },
+        {
+          "resource": "Sulfuric Acid",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Non-fissile Uranium",
+          "quantity": 50
+        },
+        {
+          "resource": "Water",
+          "quantity": 15
+        }
+      ]
+    },
+    "Turbo Blend Fuel": {
+      "building": "Blender",
+      "name": "Turbo Blend Fuel",
+      "craftTime": 8,
+      "inputs": [
+        {
+          "resource": "Fuel",
+          "quantity": 15
+        },
+        {
+          "resource": "Heavy Oil Residue",
+          "quantity": 30
+        },
+        {
+          "resource": "Sulfur",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Petroleum Coke",
+          "quantity": 22.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Turbofuel",
+          "quantity": 45
+        }
+      ]
+    },
+    "Instant Plutonium Cell": {
+      "building": "Particle Accelerator",
+      "name": "Instant Plutonium Cell",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Non-fissile Uranium",
+          "quantity": 75
+        },
+        {
+          "resource": "Aluminium Casing",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Encased Plutonium Cell",
+          "quantity": 10
+        }
+      ]
+    },
+    "Nuclear Pasta": {
+      "building": "Particle Accelerator",
+      "name": "Nuclear Pasta",
+      "craftTime": 120,
+      "inputs": [
+        {
+          "resource": "Copper Powder",
+          "quantity": 100
+        },
+        {
+          "resource": "Pressure Conversion Cube",
+          "quantity": 0.5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Nuclear Pasta",
+          "quantity": 0.5
+        }
+      ]
+    },
+    "Plutonium Pellet": {
+      "building": "Particle Accelerator",
+      "name": "Plutonium Pellet",
+      "craftTime": 60,
+      "inputs": [
+        {
+          "resource": "Non-fissile Uranium",
+          "quantity": 100
+        },
+        {
+          "resource": "Uranium Waste",
+          "quantity": 25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Plutonium Pellet",
+          "quantity": 30
+        }
+      ]
+    },
+    "Blue FICSMAS Ornament": {
+      "building": "Smelter",
+      "name": "Blue FICSMAS Ornament",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Ornament (Blue)",
+          "quantity": 10
+        }
+      ]
+    },
+    "Caterium Ingot": {
+      "building": "Smelter",
+      "name": "Caterium Ingot",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Caterium Ore",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Caterium Ingot",
+          "quantity": 15
+        }
+      ]
+    },
+    "Copper Ingot": {
+      "building": "Smelter",
+      "name": "Copper Ingot",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Copper Ore",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 30
+        }
+      ]
+    },
+    "Iron Ingot": {
+      "building": "Smelter",
+      "name": "Iron Ingot",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 30
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 30
+        }
+      ]
+    },
+    "Pure Aluminium Ingot": {
+      "building": "Smelter",
+      "name": "Pure Aluminium Ingot",
+      "craftTime": 2,
+      "inputs": [
+        {
+          "resource": "Aluminium Scrap",
+          "quantity": 60
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 30
+        }
+      ]
+    },
+    "Red FICSMAS Ornament": {
+      "building": "Smelter",
+      "name": "Red FICSMAS Ornament",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Gift",
+          "quantity": 5
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Ornament (Red)",
+          "quantity": 5
+        }
+      ]
+    },
+    "Aluminium Ingot": {
+      "building": "Foundry",
+      "name": "Aluminium Ingot",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Aluminium Scrap",
+          "quantity": 90
+        },
+        {
+          "resource": "Silica",
+          "quantity": 75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Aluminium Ingot",
+          "quantity": 60
+        }
+      ]
+    },
+    "Coke Steel Ingot": {
+      "building": "Foundry",
+      "name": "Coke Steel Ingot",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 75
+        },
+        {
+          "resource": "Petroleum Coke",
+          "quantity": 75
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 100
+        }
+      ]
+    },
+    "Compacted Steel Ingot": {
+      "building": "Foundry",
+      "name": "Compacted Steel Ingot",
+      "craftTime": 16,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 22.5
+        },
+        {
+          "resource": "Compacted Coal",
+          "quantity": 11.25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 37.5
+        }
+      ]
+    },
+    "Copper Alloy Ingot": {
+      "building": "Foundry",
+      "name": "Copper Alloy Ingot",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "Copper Ore",
+          "quantity": 50
+        },
+        {
+          "resource": "Iron Ore",
+          "quantity": 25
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Copper Ingot",
+          "quantity": 100
+        }
+      ]
+    },
+    "Copper FICSMAS Ornament": {
+      "building": "Foundry",
+      "name": "Copper FICSMAS Ornament",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Ornament (Red)",
+          "quantity": 10
+        },
+        {
+          "resource": "Copper Ingot",
+          "quantity": 10
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Ornament (Copper)",
+          "quantity": 5
+        }
+      ]
+    },
+    "Iron Alloy Ingot": {
+      "building": "Foundry",
+      "name": "Iron Alloy Ingot",
+      "craftTime": 6,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 20
+        },
+        {
+          "resource": "Copper Ore",
+          "quantity": 20
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 50
+        }
+      ]
+    },
+    "Iron FICSMAS Ornament": {
+      "building": "Foundry",
+      "name": "Iron FICSMAS Ornament",
+      "craftTime": 12,
+      "inputs": [
+        {
+          "resource": "FICSMAS Ornament (Blue)",
+          "quantity": 15
+        },
+        {
+          "resource": "Iron Ingot",
+          "quantity": 15
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "FICSMAS Ornament (Iron)",
+          "quantity": 5
+        }
+      ]
+    },
+    "Solid Steel Ingot": {
+      "building": "Foundry",
+      "name": "Solid Steel Ingot",
+      "craftTime": 3,
+      "inputs": [
+        {
+          "resource": "Iron Ingot",
+          "quantity": 40
+        },
+        {
+          "resource": "Coal",
+          "quantity": 40
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 60
+        }
+      ]
+    },
+    "Steel Ingot": {
+      "building": "Foundry",
+      "name": "Steel Ingot",
+      "craftTime": 4,
+      "inputs": [
+        {
+          "resource": "Iron Ore",
+          "quantity": 45
+        },
+        {
+          "resource": "Coal",
+          "quantity": 45
+        }
+      ],
+      "outputs": [
+        {
+          "resource": "Steel Ingot",
+          "quantity": 45
+        }
+      ]
+    }
+  }
+}
